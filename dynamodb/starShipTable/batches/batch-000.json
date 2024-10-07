@@ -1,0 +1,436 @@
+{
+  "dbb-starShips-DynamoDBTable-ITDJLPHAMGGD": [
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-75633"
+          },
+          "Name": {
+            "S": "USS Defiant"
+          },
+          "ShipClass": {
+            "S": "Defiant"
+          },
+          "Description": {
+            "S": "Formerly the USS SÃ£o Paulo. Assigned to space station Deep Space Nine. Participates in the Battle of Cardassia."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NAR-18834"
+          },
+          "Name": {
+            "S": "SS Vico"
+          },
+          "ShipClass": {
+            "S": "Oberth"
+          },
+          "Description": {
+            "S": "Research vessel that was in service with Starfleet in the mid-24th century. This ship was on loan to a civilian agency, and was given a civilian registry. Vico operated out of Starbase 514. In 2368, the Vico explored an astronomical formation known as a black cluster. Found derelict by Enterprise-D."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NAR-32450"
+          },
+          "Name": {
+            "S": "USS Raven"
+          },
+          "ShipClass": {
+            "S": "Undetermined"
+          },
+          "Description": {
+            "S": "Science and exploration vessel used by the Hansens for exploration of the Delta Quadrant where Seven of Nine was assimilated by the Borg."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC 1717"
+          },
+          "Name": {
+            "S": "USS YorktownUSS Enterprise (from 2286)"
+          },
+          "ShipClass": {
+            "S": "Constitution refit"
+          },
+          "Description": {
+            "S": "Disabled by whale probe, then possibly salvaged and renamed Enterprise; although no onscreen evidence supports this. Command given to James T. Kirk following his demotion to Captain. Primary setting for Star Trek V: The Final Frontier and Star Trek VI: The Undiscovered Country, later decommissioned."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC 97284"
+          },
+          "Name": {
+            "S": "USS Houston"
+          },
+          "ShipClass": {
+            "S": "Odyssey"
+          },
+          "Description": {
+            "S": "The Houston, commanded by Admiral D'Vak, lead the federation in an assault against the Borg Queen's Octahedron in the space around the Unicomplex."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-0514"
+          },
+          "Name": {
+            "S": "USS Kelvin"
+          },
+          "ShipClass": {
+            "S": "Einstein"
+          },
+          "Description": {
+            "S": "In the timeline at the start of the movie Star Trek, the Kelvin was in service with Starfleet in the early 23rd century. In 2233, the Kelvin was under the command of Captain Richard Robau; his first officer was Lieutenant Commander George Kirk. Kirk's wife, Winona, was also aboard the ship at that time while she was pregnant with their son, James T. Kirk. The Kelvin was destroyed by the Romulan mining ship Narada, which arrived from the distant future through an artificial black hole. Named for director J. J. Abrams' grandfather. Its registry number, NCC-0514, comes from Abrams's birthdate of May 14."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-06"
+          },
+          "Name": {
+            "S": "USS Endeavour"
+          },
+          "ShipClass": {
+            "S": "Columbia"
+          },
+          "Description": {
+            "S": "Originally the last active NX class starship in the Earth Starfleet. Transferred to Federation Starfleet service and rebuilt into the first Columbia class starship."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-1004"
+          },
+          "Name": {
+            "S": "USS T'Plana-Hath"
+          },
+          "ShipClass": {
+            "S": "Engle"
+          },
+          "Description": {
+            "S": "Destroyed at the Battle at the Binary Stars."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-1017"
+          },
+          "Name": {
+            "S": "USS Constellation"
+          },
+          "ShipClass": {
+            "S": "Constitution"
+          },
+          "Description": {
+            "S": "Commanded by Commodore Matthew Decker. All of crew was killed by the Doomsday Machine except for Commodore Decker. Used as a bomb to destroy the planet-killer."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-1029"
+          },
+          "Name": {
+            "S": "USS Crossfield"
+          },
+          "ShipClass": {
+            "S": "Crossfield"
+          },
+          "Description": {
+            "S": "Presumable namesake ship for the class."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-1030"
+          },
+          "Name": {
+            "S": "USS Glenn"
+          },
+          "ShipClass": {
+            "S": "Crossfield"
+          },
+          "Description": {
+            "S": "Sister ship to the Discovery. Scuttled following a failed propulsion experiment."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-1031"
+          },
+          "Name": {
+            "S": "USS Discovery"
+          },
+          "ShipClass": {
+            "S": "Crossfield"
+          },
+          "Description": {
+            "S": "Titular ship in 2017 television series Star Trek: Discovery. Initially commanded by Captain Gabriel Lorca, and later by Captain Christopher Pike, the Discovery is a science vessel commissioned to investigate potential forms of faster-than-light propulsion such as the spore drive."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-10376"
+          },
+          "Name": {
+            "S": "USS Hermes"
+          },
+          "ShipClass": {
+            "S": "Antares"
+          },
+          "Description": {
+            "S": "Part of the tachyon blockade during the Klingon Civil War."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-1052"
+          },
+          "Name": {
+            "S": "USS Earhart"
+          },
+          "ShipClass": {
+            "S": "Engle"
+          },
+          "Description": {
+            "S": "Fought at the Battle at the Binary Stars."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-10532"
+          },
+          "Name": {
+            "S": "USS Horatio"
+          },
+          "ShipClass": {
+            "S": "Ambassador"
+          },
+          "Description": {
+            "S": "Commanded by Captain Walker Keel. Destroyed by agents of an alien conspiracy to take over Starfleet."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-11574"
+          },
+          "Name": {
+            "S": "USS Ajax"
+          },
+          "ShipClass": {
+            "S": "Apollo"
+          },
+          "Description": {
+            "S": "Cortin Zweller's first assignment. Received experimental warp drive technology. Part of the tachyon blockade during the Klingon Civil War."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-11638"
+          },
+          "Name": {
+            "S": "USS Agamemnon"
+          },
+          "ShipClass": {
+            "S": "Apollo"
+          },
+          "Description": {
+            "S": "Part of the tachyon blockade during the Klingon Civil War. Part of \"Task Force 3\" sent to face an anticipated Borg attack."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-11672"
+          },
+          "Name": {
+            "S": "USS Gage"
+          },
+          "ShipClass": {
+            "S": "Apollo"
+          },
+          "Description": {
+            "S": "Destroyed at the Battle of Wolf 359."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-12537"
+          },
+          "Name": {
+            "S": "USS Clement"
+          },
+          "ShipClass": {
+            "S": "Apollo"
+          },
+          "Description": {
+            "S": "Scheduled to rendezvous with the Enterprise-D."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-1255"
+          },
+          "Name": {
+            "S": "USS Kerala"
+          },
+          "ShipClass": {
+            "S": "Shepard"
+          },
+          "Description": {
+            "S": "Destroyed at the Battle at the Binary Stars."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-1265"
+          },
+          "Name": {
+            "S": "USS Ride"
+          },
+          "ShipClass": {
+            "S": "Shepard"
+          },
+          "Description": {
+            "S": "Fought at the Battle at the Binary Stars."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-1309"
+          },
+          "Name": {
+            "S": "USS Gagarin"
+          },
+          "ShipClass": {
+            "S": "Shepard"
+          },
+          "Description": {
+            "S": "Ambushed and destroyed by the Klingons."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-1371"
+          },
+          "Name": {
+            "S": "USS Republic"
+          },
+          "ShipClass": {
+            "S": "Constitution"
+          },
+          "Description": {
+            "S": "Although many reference sources included Republic as a Constitution-class heavy cruiser, its status in canon is, to date, uncertain. Kirk himself stated in the episode \"Court Martial\" the ship's nomenclature as \"United Starship Republic, number 1371\"."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-13958"
+          },
+          "Name": {
+            "S": "USS Okinawa"
+          },
+          "ShipClass": {
+            "S": "Excelsior"
+          },
+          "Description": {
+            "S": "Ship commanded by Admiral James Leyton and on which Benjamin Sisko served as first officer."
+          }
+        }
+      }
+    }
+  ]
+}

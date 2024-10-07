@@ -1,0 +1,23 @@
+AWSTemplateFormatVersion: '2010-09-09'
+
+Resources: 
+  DynamoDBTable:
+      Type: AWS::DynamoDB::Table
+      Properties: 
+        TableClass: STANDARD
+        BillingMode: PROVISIONED
+        KeySchema: 
+          - AttributeName: encrypted_total
+            KeyType: HASH
+          - AttributeName: position
+            KeyType: RANGE
+        AttributeDefinitions: 
+          - AttributeName: largeTableModel
+            AttributeType: S
+          - AttributeName: encrypted_salaries
+            AttributeType: S
+        ProvisionedThroughput: 
+          ReadCapacityUnits: 5
+          WriteCapacityUnits: 5
+        DeletionProtectionEnabled: false
+      

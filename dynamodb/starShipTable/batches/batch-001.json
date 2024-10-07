@@ -1,0 +1,436 @@
+{
+  "dbb-starShips-DynamoDBTable-ITDJLPHAMGGD": [
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-1413"
+          },
+          "Name": {
+            "S": "USS Shran"
+          },
+          "ShipClass": {
+            "S": "Magee"
+          },
+          "Description": {
+            "S": "Destroyed at the Battle at the Binary Stars."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-1422"
+          },
+          "Name": {
+            "S": "USS Buran"
+          },
+          "ShipClass": {
+            "S": "Cardenas"
+          },
+          "Description": {
+            "S": "The ship was ambushed by Klingons about a month after the beginning of the 2256 Federation-Klingon war and apparently destroyed. Its captain at the time was Gabriel Lorca.At some point Lorca was replaced by his mirror-universe counterpart, who impersonated him and reported that ship was boarded, then set to self destruct by him so that its crew doesn't fall into Klingon hands and face degradation, torture and slow public death."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-14232"
+          },
+          "Name": {
+            "S": "USS Berlin"
+          },
+          "ShipClass": {
+            "S": "Excelsior"
+          },
+          "Description": {
+            "S": "Patrolled the Romulan Neutral Zone."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-1437"
+          },
+          "Name": {
+            "S": "USS Yeager"
+          },
+          "ShipClass": {
+            "S": "Cardenas"
+          },
+          "Description": {
+            "S": "Destroyed at the Battle at the Binary Stars."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-14598"
+          },
+          "Name": {
+            "S": "USS Fearless"
+          },
+          "ShipClass": {
+            "S": "Excelsior"
+          },
+          "Description": {
+            "S": "Assigned to planetary mapping in the Beta Mahoga system. Received new warp technology. Briefly seen in The Next Generation episode \"Where No One Has Gone Before\""
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-160"
+          },
+          "Name": {
+            "S": "USS Carolina"
+          },
+          "ShipClass": {
+            "S": "Daedalus"
+          },
+          "Description": {
+            "S": "Freighter."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-1621"
+          },
+          "Name": {
+            "S": "USS Sioux"
+          },
+          "ShipClass": {
+            "S": "Malachowski"
+          },
+          "Description": {
+            "S": "Fought at the Battle at the Binary Stars."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-1623"
+          },
+          "Name": {
+            "S": "USS Valiant"
+          },
+          "ShipClass": {
+            "S": "Constitution"
+          },
+          "Description": {
+            "S": "For his influential \"The Case of Jonathan Doe Starship\" article, published in the April 1973 issue 27 of the T-Negative fanzine, future Star Trek model maker Greg Jein accepted the producer's intent and endowed Valiant with the appropriately lower conjectural registry number NCC-1623. But unlike many of his other conjectural Constitution-class registry numbers, the 2006 remastered version of the series afforded no opportunity to bring this ship to canon. The reference book Star Fleet Technical Manual also listed a Constitution-class starship with the name Valiant but assigned with the registry NCC-1709. The 1973 Franz Joseph Blueprints list this ship as NCC-1709 also."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-1631"
+          },
+          "Name": {
+            "S": "USS Intrepid"
+          },
+          "ShipClass": {
+            "S": "Constitution"
+          },
+          "Description": {
+            "S": "All-Vulcan crew destroyed by a massive, spacegoing single-celled life form. The 1973 Franz Joseph Blueprints list this ship as NCC-1708."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-1647"
+          },
+          "Name": {
+            "S": "USS Farragut"
+          },
+          "ShipClass": {
+            "S": "Constitution"
+          },
+          "Description": {
+            "S": "Ship on which James Kirk served as a phaser station operator. Attacked by the dikironium cloud creature, which killed half the crew. The ship never appeared on screen and was never given a class or registry number; both come from The Star Trek Encyclopedia. The 1973 Franz Joseph Blueprints list this ship as NCC-1702."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-1648"
+          },
+          "Name": {
+            "S": "USS Europa"
+          },
+          "ShipClass": {
+            "S": "Nimitz"
+          },
+          "Description": {
+            "S": "Commanded by Admiral Brett Anderson. Destroyed by a cloaked Klingon ship during the Battle at the Binary Stars."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-1650"
+          },
+          "Name": {
+            "S": "USS Korolev"
+          },
+          "ShipClass": {
+            "S": "Korolev"
+          },
+          "Description": {
+            "S": "Presumable namesake ship for the class."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-1657"
+          },
+          "Name": {
+            "S": "USS Potemkin"
+          },
+          "ShipClass": {
+            "S": "Constitution"
+          },
+          "Description": {
+            "S": "Participates in Richard Daystrom's M5 computer test. See USS Kongo for its ultimate fate. The 1973 Franz Joseph Blueprints list this ship as NCC-1711."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-1661"
+          },
+          "Name": {
+            "S": "USS Clarke"
+          },
+          "ShipClass": {
+            "S": "Malachowski"
+          },
+          "Description": {
+            "S": "Destroyed at the Battle at the Binary Stars."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-1664"
+          },
+          "Name": {
+            "S": "USS Excalibur"
+          },
+          "ShipClass": {
+            "S": "Constitution"
+          },
+          "Description": {
+            "S": "Severely damaged and crew killed during Richard Daystrom's M5 computer test. In TOS episode \"The Ultimate Computer\", the death of its entire crew is established, however, the status of the Excalibur itself is unclear. It is not determined whether the ship was destroyed or severely damaged. The Star Trek Chronology (2nd ed., p. 88) stated that the ship was destroyed. The fourth edition of the Star Trek Encyclopedia offered two possibilities of the conditions of the Excalibur â the ship was severely damaged in (vol. 1, p. 254) or accidentally destroyed in (vol. 2, p. 329). Even though the episode itself provided no firm confirmation either way. The 1973 Franz Joseph Blueprints list this ship as NCC-1705."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-1672"
+          },
+          "Name": {
+            "S": "USS Exeter"
+          },
+          "ShipClass": {
+            "S": "Constitution"
+          },
+          "Description": {
+            "S": "All crew lost (killed by alien disease) except for Captain Ronald Tracey, who was on the planet's surface when the disease struck his crew. At the end of the series Captain James T. Kirk stated that the Exeter was an abandoned ship, being infected with the virus of Omega IV. Best estimates were that the Exeter was destroyed to keep the infection from spreading throughout the galaxy. See USS Kongo for its ultimate fate. The 1973 Franz Joseph Blueprints list this ship as NCC-1706."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-1683"
+          },
+          "Name": {
+            "S": "USS Edison"
+          },
+          "ShipClass": {
+            "S": "Hoover"
+          },
+          "Description": {
+            "S": "Destroyed at the Battle at the Binary Stars."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-1690"
+          },
+          "Name": {
+            "S": "USS Dana"
+          },
+          "ShipClass": {
+            "S": "Hoover"
+          },
+          "Description": {
+            "S": "Fought at the Battle at the Binary Stars."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-1692"
+          },
+          "Name": {
+            "S": "USS Helin"
+          },
+          "ShipClass": {
+            "S": "Miranda"
+          },
+          "Description": {
+            "S": "Patrolled the Romulan Neutral Zone."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-1700"
+          },
+          "Name": {
+            "S": "USS Constitution"
+          },
+          "ShipClass": {
+            "S": "Constitution"
+          },
+          "Description": {
+            "S": "Lead ship of the class (previously NX-1700)."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-1701"
+          },
+          "Name": {
+            "S": "USS Enterprise"
+          },
+          "ShipClass": {
+            "S": "Constitution"
+          },
+          "Description": {
+            "S": "Commanded by Robert April (2245â2250), Christopher Pike (2250â2265), James T. Kirk (2265â2270, 2273â2280, 2285), Willard Decker (2270â2273, ship's commander during refit up to V'Ger incident), and Spock (2280â2285, at which time Enterprise was assigned to Starfleet Academy as a training ship). Vessel's self-destruction carried out while in orbit of the Genesis planet to prevent ship from falling into Klingon hands."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-1701-B"
+          },
+          "Name": {
+            "S": "USS Enterprise"
+          },
+          "ShipClass": {
+            "S": "Excelsior"
+          },
+          "Description": {
+            "S": "Ship aboard which James T. Kirk is lost and presumed dead. First commanded by Captain Jon Harriman."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-1701-C"
+          },
+          "Name": {
+            "S": "USS Enterprise"
+          },
+          "ShipClass": {
+            "S": "Ambassador"
+          },
+          "Description": {
+            "S": "Commanded by Captain Rachel Garrett presumed to be Killed In Action when the ship was destroyed defending the Klingon outpost at Narendra III from Romulan attack. Helmsman Richard Castillo assumed command of the Enterprise-C in 2366 and returned to the year 2344 where the ship was destroyed defending the Klingon outpost."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-1701-D"
+          },
+          "Name": {
+            "S": "USS Enterprise"
+          },
+          "ShipClass": {
+            "S": "Galaxy"
+          },
+          "Description": {
+            "S": "Primary setting for Star Trek: The Next Generation. Captained by Jean-Luc Picard. Launched in 2363. Destroyed in 2371. Engineering section destroyed by warp core breach at Veridian III. Saucer section crash landed on Veridian III and rendered unsalvageable."
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+set -e  # stop the execution of the script if it fails
+
+echo "== Deploy Data Stream"
+
+STACK_NAME="dbb-encrypted_totals"
+root_path=$(pwd)  # replaces realpath
+template_path="${root_path}/template.yaml"  
+
+aws cloudformation deploy \
+  --template-file "${template_path}" \
+  --capabilities "CAPABILITY_NAMED_IAM" \
+  --no-execute-changeset \
+  --region us-west-2     \
+  --stack-name $STACK_NAME

@@ -1,0 +1,436 @@
+{
+  "dbb-starShips-DynamoDBTable-ITDJLPHAMGGD": [
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-26198"
+          },
+          "Name": {
+            "S": "USS Valdemar"
+          },
+          "ShipClass": {
+            "S": "Ambassador"
+          },
+          "Description": {
+            "S": "Sent to the border of the Cardassian Demilitarized Zone."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-26510"
+          },
+          "Name": {
+            "S": "USS Yamaguchi"
+          },
+          "ShipClass": {
+            "S": "Ambassador"
+          },
+          "Description": {
+            "S": "Destroyed by the Borg at the Battle of Wolf 359."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-26517"
+          },
+          "Name": {
+            "S": "USS Excalibur"
+          },
+          "ShipClass": {
+            "S": "Ambassador"
+          },
+          "Description": {
+            "S": "Part of the tachyon blockade during the Klingon Civil War. Later commanded by Captain Mackenzie Calhoun in Star Trek: New Frontier."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-26517-A"
+          },
+          "Name": {
+            "S": "USS Excalibur"
+          },
+          "ShipClass": {
+            "S": "Galaxy"
+          },
+          "Description": {
+            "S": "Commanded by Captain Mackenzie Calhoun, primary setting for the latter part of Star Trek: New Frontier as successor to the Ambassador class ship of the same name."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-26531"
+          },
+          "Name": {
+            "S": "USS Exeter"
+          },
+          "ShipClass": {
+            "S": "Ambassador"
+          },
+          "Description": {
+            "S": "Tom Paris's assignment before being dismissed from Starfleet. Participated in the Dominion War. Later commanded by Captain Elizabeth Shelby, followed by Captain Alexandra Garbeck in Star Trek: New Frontier."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-26632"
+          },
+          "Name": {
+            "S": "USS Gandhi"
+          },
+          "ShipClass": {
+            "S": "Ambassador"
+          },
+          "Description": {
+            "S": "Ship to which Thomas Riker is assigned."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-26848-A"
+          },
+          "Name": {
+            "S": "USS Loma Prieta"
+          },
+          "ShipClass": {
+            "S": "Ambassador"
+          },
+          "Description": {
+            "S": "Flagship of Admiral TâNae during Sela's assault on Vulcan in 2409."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-26849"
+          },
+          "Name": {
+            "S": "USS Adelphi"
+          },
+          "ShipClass": {
+            "S": "Ambassador"
+          },
+          "Description": {
+            "S": "Crew made first contact with the Ghorusda."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-28473"
+          },
+          "Name": {
+            "S": "USS Wellington"
+          },
+          "ShipClass": {
+            "S": "Niagara"
+          },
+          "Description": {
+            "S": "Ship aboard which Ro Laren served, and where she was posted before being court-martialed. Underwent a computer system upgrade by Bynar technicians at Starbase 74."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-2893"
+          },
+          "Name": {
+            "S": "USS Stargazer"
+          },
+          "ShipClass": {
+            "S": "Constellation"
+          },
+          "Description": {
+            "S": "Jean-Luc Picard's first command. Abandoned following the Battle of Maxia, later recovered by Starfleet."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-29487"
+          },
+          "Name": {
+            "S": "USS Raman"
+          },
+          "ShipClass": {
+            "S": "Oberth"
+          },
+          "Description": {
+            "S": "Lost while investigating Marijne VII."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-3069"
+          },
+          "Name": {
+            "S": "USS Magellan"
+          },
+          "ShipClass": {
+            "S": "Constellation"
+          },
+          "Description": {
+            "S": "Referred to by Captain Sisko as one of the ships to protect the USS Defiant's flank."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-31060"
+          },
+          "Name": {
+            "S": "USS Majestic"
+          },
+          "ShipClass": {
+            "S": "Miranda"
+          },
+          "Description": {
+            "S": "Destroyed at the Battle for Deep Space 9."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-31347"
+          },
+          "Name": {
+            "S": "USS Trident"
+          },
+          "ShipClass": {
+            "S": "Galaxy"
+          },
+          "Description": {
+            "S": "Commanded by Captain Elizabeth Shelby and later by Captain Kat Mueller in Star Trek: New Frontier."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-31600"
+          },
+          "Name": {
+            "S": "USS Bonestell"
+          },
+          "ShipClass": {
+            "S": "Oberth"
+          },
+          "Description": {
+            "S": "Destroyed in the Battle of Wolf 359."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-31905"
+          },
+          "Name": {
+            "S": "USS ShirKahr"
+          },
+          "ShipClass": {
+            "S": "Miranda"
+          },
+          "Description": {
+            "S": "Destroyed in the First Battle of Chin'toka."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-31910"
+          },
+          "Name": {
+            "S": "USS Nautilus"
+          },
+          "ShipClass": {
+            "S": "Miranda"
+          },
+          "Description": {
+            "S": "Participates in the First Battle of Chin'toka."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-31911"
+          },
+          "Name": {
+            "S": "USS Saratoga"
+          },
+          "ShipClass": {
+            "S": "Miranda"
+          },
+          "Description": {
+            "S": "Ship aboard which Benjamin Sisko served as first officer. Destroyed at the Battle of Wolf 359."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-31911-A"
+          },
+          "Name": {
+            "S": "USS Saratoga"
+          },
+          "ShipClass": {
+            "S": "Miranda"
+          },
+          "Description": {
+            "S": "Replaced previous Saratoga; little else known."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-33184"
+          },
+          "Name": {
+            "S": "USS Zapata"
+          },
+          "ShipClass": {
+            "S": "Surak"
+          },
+          "Description": {
+            "S": "Scheduled to rendezvous with the Enterprise-D. Fought in the Dominion War."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-34043"
+          },
+          "Name": {
+            "S": "USS Havana"
+          },
+          "ShipClass": {
+            "S": "Istanbul"
+          },
+          "Description": {
+            "S": "Scheduled to rendezvous with the Enterprise-D in 2369."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-34852"
+          },
+          "Name": {
+            "S": "USS Constantinople"
+          },
+          "ShipClass": {
+            "S": "Istanbul"
+          },
+          "Description": {
+            "S": "Suffered a hull breach transporting colonists to Gravesworld."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-37120"
+          },
+          "Name": {
+            "S": "USS Merced"
+          },
+          "ShipClass": {
+            "S": "Merced"
+          },
+          "Description": {
+            "S": "Presumable namesake ship for the class."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-37124"
+          },
+          "Name": {
+            "S": "USS Trieste"
+          },
+          "ShipClass": {
+            "S": "Merced"
+          },
+          "Description": {
+            "S": "Fell through a wormhole during Data's tour of duty. Stationed near Starbase 74 when the Enterprise-D is hijacked by the Bynars."
+          }
+        }
+      }
+    }
+  ]
+}

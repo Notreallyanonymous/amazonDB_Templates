@@ -1,0 +1,23 @@
+AWSTemplateFormatVersion: '2010-09-09'
+
+Resources: 
+  DynamoDBTable:
+      Type: AWS::DynamoDB::Table
+      Properties: 
+        TableClass: STANDARD
+        BillingMode: PROVISIONED
+        KeySchema: 
+          - AttributeName: ShipClass
+            KeyType: HASH
+          - AttributeName: Registry
+            KeyType: RANGE
+        AttributeDefinitions: 
+          - AttributeName: ShipClass
+            AttributeType: S
+          - AttributeName: Registry
+            AttributeType: S
+        ProvisionedThroughput: 
+          ReadCapacityUnits: 5
+          WriteCapacityUnits: 5
+        DeletionProtectionEnabled: false
+      

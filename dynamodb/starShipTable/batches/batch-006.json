@@ -1,0 +1,436 @@
+{
+  "dbb-starShips-DynamoDBTable-ITDJLPHAMGGD": [
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-45231"
+          },
+          "Name": {
+            "S": "USS Hornet"
+          },
+          "ShipClass": {
+            "S": "Renaissance"
+          },
+          "Description": {
+            "S": "Part of the tachyon blockade during the Klingon Civil War. Named for the World War II aircraft carrier. Participates in the Dominion War."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-470"
+          },
+          "Name": {
+            "S": "USS Lovell"
+          },
+          "ShipClass": {
+            "S": "Daedalus"
+          },
+          "Description": {
+            "S": "Dedicated vessel of the Starfleet Corps of Engineers. Appears in the novel series Star Trek: Vanguard.Likely named after Capt. James Lovell, USN, Gemini and Apollo astronaut."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-501"
+          },
+          "Name": {
+            "S": "USS Antares aka SS Antares"
+          },
+          "ShipClass": {
+            "S": "Antares"
+          },
+          "Description": {
+            "S": "Rescued and is later destroyed by Charlie Evans."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-50331"
+          },
+          "Name": {
+            "S": "USS Biko"
+          },
+          "ShipClass": {
+            "S": "Oberth"
+          },
+          "Description": {
+            "S": "Rendezvoused with the USS Enterprise-D at Deinonychus VII."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-50446"
+          },
+          "Name": {
+            "S": "USS Crazy Horse"
+          },
+          "ShipClass": {
+            "S": "Excelsior"
+          },
+          "Description": {
+            "S": "Part of Task Force 3 sent to face an anticipated Borg invasion. Set to rendezvous with the Enterprise-D to transfer Rear Admiral Erik Pressman."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-52136"
+          },
+          "Name": {
+            "S": "USS Appalachia"
+          },
+          "ShipClass": {
+            "S": "Steamrunner"
+          },
+          "Description": {
+            "S": "Participates in the Battle of Sector 001."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-529"
+          },
+          "Name": {
+            "S": "SS Santa Maria"
+          },
+          "ShipClass": {
+            "S": "Erewhon"
+          },
+          "Description": {
+            "S": "Personnel Transport about 4 times the size of the Runabout. Cannibalised for parts and for use as a shelter by human settlers in a colony that rejects technology."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-53500"
+          },
+          "Name": {
+            "S": "USS Springfield"
+          },
+          "ShipClass": {
+            "S": "Springfield"
+          },
+          "Description": {
+            "S": "Presumable namesake ship for the class."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-53847"
+          },
+          "Name": {
+            "S": "USS Pegasus"
+          },
+          "ShipClass": {
+            "S": "Oberth"
+          },
+          "Description": {
+            "S": "Equipped with an illegal prototype cloaking device that malfunctions, causing the ship to become embedded inside an asteroid."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-53911"
+          },
+          "Name": {
+            "S": "SS Tsiolkovsky"
+          },
+          "ShipClass": {
+            "S": "Oberth"
+          },
+          "Description": {
+            "S": "Crew infected by the Psi 2000 virus. Destroyed in asteroid collision."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-54905"
+          },
+          "Name": {
+            "S": "USS Olympic"
+          },
+          "ShipClass": {
+            "S": "Olympic"
+          },
+          "Description": {
+            "S": "Presumable namesake ship for the class. The namesake for this vessel is most likely the ocean liner RMS Olympic."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-55012"
+          },
+          "Name": {
+            "S": "USS Nobel"
+          },
+          "ShipClass": {
+            "S": "Olympic"
+          },
+          "Description": {
+            "S": "Visited Deep Space Three to search for the missing USS Hera. Served in the Dominion War."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-57295"
+          },
+          "Name": {
+            "S": "USS Rutledge"
+          },
+          "ShipClass": {
+            "S": "New Orleans"
+          },
+          "Description": {
+            "S": "Ship aboard which Miles O'Brien and Benjamin Maxwell served during the Cardassian War. Participated in the counterattack against the Klingons in the Archanis sector."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-57302"
+          },
+          "Name": {
+            "S": "USS Chekov"
+          },
+          "ShipClass": {
+            "S": "Springfield"
+          },
+          "Description": {
+            "S": "Destroyed in the Battle of Wolf 359."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-57418"
+          },
+          "Name": {
+            "S": "USS Portland"
+          },
+          "ShipClass": {
+            "S": "Chimera"
+          },
+          "Description": {
+            "S": "Searches the Algira sector for Odo and Elim Garak when their runabout goes missing."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-57537"
+          },
+          "Name": {
+            "S": "USS Armstrong"
+          },
+          "ShipClass": {
+            "S": "Challenger"
+          },
+          "Description": {
+            "S": "Ambushed by a Klingon battle group. Name honors astronaut Neil Armstrong, commander of Apollo 11."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-57566"
+          },
+          "Name": {
+            "S": "USS Kearsarge"
+          },
+          "ShipClass": {
+            "S": "Challenger"
+          },
+          "Description": {
+            "S": "Rendezvoused with the Enterprise-D."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-57580"
+          },
+          "Name": {
+            "S": "USS Buran"
+          },
+          "ShipClass": {
+            "S": "Challenger"
+          },
+          "Description": {
+            "S": "Destroyed at the Battle of Wolf 359 commanded by Captain Lorca."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-58925"
+          },
+          "Name": {
+            "S": "USS Pasteur"
+          },
+          "ShipClass": {
+            "S": "Olympic"
+          },
+          "Description": {
+            "S": "Ship commanded by Beverly Picard in an alternate timeline. Destroyed by warp core breach in the Devron system. Featured in the episode \"All Good Things...\"."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-59318"
+          },
+          "Name": {
+            "S": "USS Cochrane"
+          },
+          "ShipClass": {
+            "S": "Oberth"
+          },
+          "Description": {
+            "S": "Ferries Admiral Norah Satie to the Enterprise-D. and Julian Bashir and Lieutenant Jadzia Dax to Deep Space Nine."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-59621"
+          },
+          "Name": {
+            "S": "USS Goddard"
+          },
+          "ShipClass": {
+            "S": "Korolev"
+          },
+          "Description": {
+            "S": "Delayed rendezvous with the Enterprise-D after the Acamarian Truce's signing. Part of the tachyon blockade during the Klingon Civil War."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-59804"
+          },
+          "Name": {
+            "S": "USS Princeton"
+          },
+          "ShipClass": {
+            "S": "Niagara"
+          },
+          "Description": {
+            "S": "Destroyed at the Battle of Wolf 359."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-602"
+          },
+          "Name": {
+            "S": "USS Oberth"
+          },
+          "ShipClass": {
+            "S": "Oberth"
+          },
+          "Description": {
+            "S": "First ship of the class. Assigned to deep space exploration in 2293, when \"Operation Retrieve\" was proposed."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-60205"
+          },
+          "Name": {
+            "S": "USS HonshÅ«"
+          },
+          "ShipClass": {
+            "S": "Nebula"
+          },
+          "Description": {
+            "S": "Destroyed while transporting Gul Dukat to stand trial."
+          }
+        }
+      }
+    }
+  ]
+}

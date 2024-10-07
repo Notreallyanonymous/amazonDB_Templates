@@ -1,0 +1,436 @@
+{
+  "dbb-starShips-DynamoDBTable-ITDJLPHAMGGD": [
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-70956"
+          },
+          "Name": {
+            "S": "USS Drake"
+          },
+          "ShipClass": {
+            "S": "Andromeda"
+          },
+          "Description": {
+            "S": "Ambushed by a Klingon battle squadron."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-71099"
+          },
+          "Name": {
+            "S": "USS Challenger"
+          },
+          "ShipClass": {
+            "S": "Galaxy"
+          },
+          "Description": {
+            "S": "Witnesses the return of USS Voyager to Earth. Commanded by Captain Geordi La Forge in an alternate future."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-71201"
+          },
+          "Name": {
+            "S": "USS Prometheus"
+          },
+          "ShipClass": {
+            "S": "Nebula"
+          },
+          "Description": {
+            "S": "Used by Dr. Gideon Seyetik in his project to reignite a dead star."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-71427"
+          },
+          "Name": {
+            "S": "USS Leyte Gulf"
+          },
+          "ShipClass": {
+            "S": "Akira"
+          },
+          "Description": {
+            "S": "Commanded by Captain Aaron Juraj; first Starfleet vessel to be infected by nanites in Star Trek: Away Team."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-71620"
+          },
+          "Name": {
+            "S": "USS Ahwahnee"
+          },
+          "ShipClass": {
+            "S": "Cheyenne"
+          },
+          "Description": {
+            "S": "Heavily damaged at the Battle of Wolf 359. Presumed repaired to participate in the tachyon blockade during the Klingon Civil War."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-71805"
+          },
+          "Name": {
+            "S": "USS Endeavour"
+          },
+          "ShipClass": {
+            "S": "Nebula"
+          },
+          "Description": {
+            "S": "Part of the tachyon blockade during the Klingon Civil War. Participates at the Battle of Sector 001."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-71807"
+          },
+          "Name": {
+            "S": "USS Yamato"
+          },
+          "ShipClass": {
+            "S": "Galaxy"
+          },
+          "Description": {
+            "S": "Crew discovered Iconian artifacts but is infected by a computer virus that causes antimatter containment loss. The virus causes the ship to explode with all hands lost. Commanded by Captain Donald Varley."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-71809"
+          },
+          "Name": {
+            "S": "USS Musashi"
+          },
+          "ShipClass": {
+            "S": "Galaxy"
+          },
+          "Description": {
+            "S": "Mentioned in the conversation of log transcription for Graviton Stabilizer by Ensign Nog."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-71832"
+          },
+          "Name": {
+            "S": "USS Odyssey"
+          },
+          "ShipClass": {
+            "S": "Galaxy"
+          },
+          "Description": {
+            "S": "Sent to rescue Benjamin Sisko from the Jem'Hadar. Destroyed in the rescue attempt."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-71842"
+          },
+          "Name": {
+            "S": "USS Robinson"
+          },
+          "ShipClass": {
+            "S": "Galaxy"
+          },
+          "Description": {
+            "S": "Taken command of by Benjamin Sisko after the Borg Invasion of 2381 in the novel Star Trek: Typhon Pact â Rough Beasts of Empire."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-71854"
+          },
+          "Name": {
+            "S": "USS Venture"
+          },
+          "ShipClass": {
+            "S": "Galaxy"
+          },
+          "Description": {
+            "S": "Part of a Starfleet task force at Deep Space Nine during the Klingon invasion of the Cardassian Union. Participates in the Battle for Deep Space 9 and the First Battle of Chin'toka."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-71867"
+          },
+          "Name": {
+            "S": "USS Trinculo"
+          },
+          "ShipClass": {
+            "S": "Galaxy"
+          },
+          "Description": {
+            "S": "Part of the Starfleet Armada tasked with retaking Deep Space 9 from Dominion control during \"Operation Return\" (DS:9 episode \"Sacrifice of Angels\")"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-71879"
+          },
+          "Name": {
+            "S": "USS Dauntless"
+          },
+          "ShipClass": {
+            "S": "Galaxy"
+          },
+          "Description": {
+            "S": "First ship under players' command in Star Trek: Bridge Commander. Destroyed while escorting a transport by Cardassian ships."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-72015"
+          },
+          "Name": {
+            "S": "USS Sutherland"
+          },
+          "ShipClass": {
+            "S": "Nebula"
+          },
+          "Description": {
+            "S": "Briefly commanded by Lieutenant Commander Data while part of the tachyon blockade during the Klingon Civil War."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-72075"
+          },
+          "Name": {
+            "S": "USS Sarek"
+          },
+          "ShipClass": {
+            "S": "Galaxy"
+          },
+          "Description": {
+            "S": "Replaced USS Cortez in formation during operation to retake DS9."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-72381"
+          },
+          "Name": {
+            "S": "USS Equinox"
+          },
+          "ShipClass": {
+            "S": "Nova"
+          },
+          "Description": {
+            "S": "Stranded in the Delta Quadrant. Heavily damaged by USS Voyager and destroyed by self-destruct initiated by Captain Rudolph Ransom."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-72392"
+          },
+          "Name": {
+            "S": "USS Everett"
+          },
+          "ShipClass": {
+            "S": "Nova"
+          },
+          "Description": {
+            "S": "Commanded by Captain Claudia Alisov. Attached to the Department of Temporal Investigations. Appears in the Department of Temporal Investigations novels."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-72452"
+          },
+          "Name": {
+            "S": "USS Rio Grande"
+          },
+          "ShipClass": {
+            "S": "Danube"
+          },
+          "Description": {
+            "S": "Vessel aboard which Jadzia Dax and Benjamin Sisko discover the Bajoran wormhole. Later located the missing Sword of Kahless. Helps rescue Sisko from the Jem'Hadar. Longest surviving DS9 runabout.[original research?]"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-72453"
+          },
+          "Name": {
+            "S": "USS Yangtzee Kiang"
+          },
+          "ShipClass": {
+            "S": "Danube"
+          },
+          "Description": {
+            "S": "Hijacked by Bajoran terrorist Tahna Los. Became the first DS9 runabout to be destroyed when it crashed on a moon in the Gamma Quadrant."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-72454"
+          },
+          "Name": {
+            "S": "USS Ganges"
+          },
+          "ShipClass": {
+            "S": "Danube"
+          },
+          "Description": {
+            "S": "Captured Tahna Los. Rescued Vash from the Gamma Quadrant. Destroyed by a T'Lani Munitions Cruiser."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-72617"
+          },
+          "Name": {
+            "S": "USS Mekong"
+          },
+          "ShipClass": {
+            "S": "Danube"
+          },
+          "Description": {
+            "S": "Helps rescue Benjamin Sisko from the Jem'Hadar. Destroyed by the Jem'Hadar during the Obsidian Order/Tal Shiar attack on the Founders' homeworld in the Omarian Nebula."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-72701"
+          },
+          "Name": {
+            "S": "USS Rhode Island"
+          },
+          "ShipClass": {
+            "S": "Nova"
+          },
+          "Description": {
+            "S": "Commanded by Captain Harry Kim in an alternate future."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-72905"
+          },
+          "Name": {
+            "S": "USS Orinoco"
+          },
+          "ShipClass": {
+            "S": "Danube"
+          },
+          "Description": {
+            "S": "Helps rescue Benjamin Sisko from the Jem'Hadar. Destroyed by the Cardassian terrorist group \"The True Way\"."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-72936"
+          },
+          "Name": {
+            "S": "USS Rubicon"
+          },
+          "ShipClass": {
+            "S": "Danube"
+          },
+          "Description": {
+            "S": "Shrunk to 6.5 centimeters."
+          }
+        }
+      }
+    }
+  ]
+}

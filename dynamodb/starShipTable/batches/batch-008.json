@@ -1,0 +1,436 @@
+{
+  "dbb-starShips-DynamoDBTable-ITDJLPHAMGGD": [
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-639"
+          },
+          "Name": {
+            "S": "USS Banting (simulation ship)"
+          },
+          "ShipClass": {
+            "S": "Oberth"
+          },
+          "Description": {
+            "S": "Simulated Oberth class vessel used by Academy trainees in Star Trek: Starfleet Academy."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-640"
+          },
+          "Name": {
+            "S": "USS Copernicus"
+          },
+          "ShipClass": {
+            "S": "Oberth"
+          },
+          "Description": {
+            "S": "Berthed at spacedock."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-64013"
+          },
+          "Name": {
+            "S": "USS Delestrez"
+          },
+          "ShipClass": {
+            "S": "Akira"
+          },
+          "Description": {
+            "S": "Commanded by Captain Juliette; Supporting ship in Celestia Universe."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-64088"
+          },
+          "Name": {
+            "S": "USS Devore"
+          },
+          "ShipClass": {
+            "S": "Akira"
+          },
+          "Description": {
+            "S": "Commanded by Captain Joshua Martin; Supporting ship in Star Trek: Bridge Commander."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-64720"
+          },
+          "Name": {
+            "S": "USS Berkeley"
+          },
+          "ShipClass": {
+            "S": "Nebula"
+          },
+          "Description": {
+            "S": "Minor starship in Star Trek: Bridge Commander. Originally sent to study the Vesuvi Dust Cloud but failed due to the intense radiation of the dust cloud. Attacked by a Kessok probe but survived. Fate uncertain."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-64923"
+          },
+          "Name": {
+            "S": "USS Budapest"
+          },
+          "ShipClass": {
+            "S": "Norway"
+          },
+          "Description": {
+            "S": "Participates in the Battle of Sector 001."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-65420"
+          },
+          "Name": {
+            "S": "USS Phoenix"
+          },
+          "ShipClass": {
+            "S": "Nebula"
+          },
+          "Description": {
+            "S": "Carries out unauthorized attacks on Cardassian ships while under the command of Captain Benjamin Maxwell. Not specified whether she is named for the mythological bird, the American city, or humanity's first FTL-capable spacecraft."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-65491"
+          },
+          "Name": {
+            "S": "USS Kyushu"
+          },
+          "ShipClass": {
+            "S": "New Orleans"
+          },
+          "Description": {
+            "S": "Destroyed at the Battle of Wolf 359."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-65530"
+          },
+          "Name": {
+            "S": "USS Thomas Paine"
+          },
+          "ShipClass": {
+            "S": "New Orleans"
+          },
+          "Description": {
+            "S": "Rendezvoused with the Enterprise-D over Dytallix B, where Captain Rixx met with Jean-Luc Picard to discuss an alien conspiracy to take over Starfleet. Part of the tachyon blockade during the Klingon Civil War."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-65550"
+          },
+          "Name": {
+            "S": "USS Gryphon"
+          },
+          "ShipClass": {
+            "S": "Akira"
+          },
+          "Description": {
+            "S": "Commanded by Captain Elaine Mello. Assigned to defend Deep Space Nine for a short period of time after the Dominion War in the Deep Space Nine relaunch."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-65601"
+          },
+          "Name": {
+            "S": "USS Surak"
+          },
+          "ShipClass": {
+            "S": "Surak"
+          },
+          "Description": {
+            "S": "Presumable namesake ship for the class."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-66613"
+          },
+          "Name": {
+            "S": "USS Khitomer"
+          },
+          "ShipClass": {
+            "S": "Nebula"
+          },
+          "Description": {
+            "S": "Minor starship in Star Trek: Bridge Commander. Lead a failed assault on Alioth 6. Fate uncertain."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-66808"
+          },
+          "Name": {
+            "S": "USS Ulysses"
+          },
+          "ShipClass": {
+            "S": "Nebula"
+          },
+          "Description": {
+            "S": "Studied protoplanetary masses in the Helaspont Nebula."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-68711"
+          },
+          "Name": {
+            "S": "USS Concorde"
+          },
+          "ShipClass": {
+            "S": "Freedom"
+          },
+          "Description": {
+            "S": "Assigned near the Romulan Neutral Zone in an alternate timeline."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-68723"
+          },
+          "Name": {
+            "S": "USS Firebrand"
+          },
+          "ShipClass": {
+            "S": "Freedom"
+          },
+          "Description": {
+            "S": "Destroyed at the Battle of Wolf 359."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-68814"
+          },
+          "Name": {
+            "S": "USS Prokofiev"
+          },
+          "ShipClass": {
+            "S": "Andromeda"
+          },
+          "Description": {
+            "S": "Dispatched to the border of the FederationâCardassian Demilitarized Zone."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-69302"
+          },
+          "Name": {
+            "S": "USS Geronimo"
+          },
+          "ShipClass": {
+            "S": "Akira"
+          },
+          "Description": {
+            "S": "Commanded by Captain Gregory McCray; Major supporting ship in Star Trek: Bridge Commander."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-69480"
+          },
+          "Name": {
+            "S": "USS San Francisco"
+          },
+          "ShipClass": {
+            "S": "Galaxy"
+          },
+          "Description": {
+            "S": "Minor supporting vessel in Star Trek: Bridge Commander. Fate uncertain."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-70070"
+          },
+          "Name": {
+            "S": "USS Sequoia"
+          },
+          "ShipClass": {
+            "S": "Sequoia"
+          },
+          "Description": {
+            "S": "Presumable namesake ship for the class."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-70073"
+          },
+          "Name": {
+            "S": "USS Yellowstone"
+          },
+          "ShipClass": {
+            "S": "Sequoia"
+          },
+          "Description": {
+            "S": "Transports Ensign Melora Pazlar to Deep Space Nine in 2370."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-70114"
+          },
+          "Name": {
+            "S": "USS Endurance"
+          },
+          "ShipClass": {
+            "S": "Saber"
+          },
+          "Description": {
+            "S": "Mentioned as replacement ship for Captain Christine McDonald in the book Star Trek: Preserver."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-70352"
+          },
+          "Name": {
+            "S": "USS Leeds"
+          },
+          "ShipClass": {
+            "S": "Nebula"
+          },
+          "Description": {
+            "S": "Participates in the Battle for Deep Space 9."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-70637"
+          },
+          "Name": {
+            "S": "USS Galaxy"
+          },
+          "ShipClass": {
+            "S": "Galaxy"
+          },
+          "Description": {
+            "S": "Pathfinder. Participates in the Battle for Deep Space 9, First Battle of Chin'toka, and Battle of Cardassia. Part of Battle Group Omega sent to intercept Reman warship Scimitar."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-70915"
+          },
+          "Name": {
+            "S": "USS Bonchune"
+          },
+          "ShipClass": {
+            "S": "Nebula"
+          },
+          "Description": {
+            "S": "Sent to recover the USS Prometheus."
+          }
+        }
+      }
+    }
+  ]
+}

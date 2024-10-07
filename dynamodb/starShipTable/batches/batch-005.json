@@ -1,0 +1,436 @@
+{
+  "dbb-starShips-DynamoDBTable-ITDJLPHAMGGD": [
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-38529"
+          },
+          "Name": {
+            "S": "USS Sarajevo"
+          },
+          "ShipClass": {
+            "S": "Istanbul"
+          },
+          "Description": {
+            "S": "Lost in the Gamma Quadrant in 2371. Later recovered and served in the Dominion War."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-3890"
+          },
+          "Name": {
+            "S": "USS Gettysburg"
+          },
+          "ShipClass": {
+            "S": "Constellation"
+          },
+          "Description": {
+            "S": "Under Captain Mark Jameson, rescued hostages from Mordan IV. Served in the Dominion War."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-38907"
+          },
+          "Name": {
+            "S": "USS Intrepid"
+          },
+          "ShipClass": {
+            "S": "Excelsior"
+          },
+          "Description": {
+            "S": "Captained by Drew Dieghan. Responded to a Klingon distress call from the Khitomer outpost following a Romulan attack."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-38955"
+          },
+          "Name": {
+            "S": "USS Crockett"
+          },
+          "ShipClass": {
+            "S": "Excelsior"
+          },
+          "Description": {
+            "S": "Transported Admiral Mitsuya to Deep Space Nine."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-38997"
+          },
+          "Name": {
+            "S": "USS Malinche"
+          },
+          "ShipClass": {
+            "S": "Excelsior"
+          },
+          "Description": {
+            "S": "Commanded by Captain George Sanders. Patrolled the Cardassian border before the Dominion War. Severely damaged by the Maquis led by Michael Eddington. Destroyed in 2381 during the Borg Invasion."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-3907"
+          },
+          "Name": {
+            "S": "USS Billings"
+          },
+          "ShipClass": {
+            "S": "Constellation"
+          },
+          "Description": {
+            "S": "Kathryn Janeway's first command."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-40512"
+          },
+          "Name": {
+            "S": "USS Gorkon"
+          },
+          "ShipClass": {
+            "S": "Excelsior"
+          },
+          "Description": {
+            "S": "Sent to face a possible Borg invasion."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-40521"
+          },
+          "Name": {
+            "S": "USS Renaissance"
+          },
+          "ShipClass": {
+            "S": "Renaissance"
+          },
+          "Description": {
+            "S": "Presumable namesake ship for the class."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-42043"
+          },
+          "Name": {
+            "S": "USS Centaur"
+          },
+          "ShipClass": {
+            "S": "Centaur"
+          },
+          "Description": {
+            "S": "Centaur class: kitbash of the Excelsior and Miranda models."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-42111"
+          },
+          "Name": {
+            "S": "USS Fredrickson"
+          },
+          "ShipClass": {
+            "S": "Excelsior"
+          },
+          "Description": {
+            "S": "Briefly at Utopia Planitia Fleet Yards. Serves in the Dominion War."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-42136"
+          },
+          "Name": {
+            "S": "USS Cairo"
+          },
+          "ShipClass": {
+            "S": "Excelsior"
+          },
+          "Description": {
+            "S": "Transfers Captain Edward Jellico to the Enterprise-D."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-42254."
+          },
+          "Name": {
+            "S": "USS Curry"
+          },
+          "ShipClass": {
+            "S": "Undetermined"
+          },
+          "Description": {
+            "S": "Pathfinder ship for the Curry class, another \"kitbash\" model."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-42285"
+          },
+          "Name": {
+            "S": "USS Charleston"
+          },
+          "ShipClass": {
+            "S": "Excelsior"
+          },
+          "Description": {
+            "S": "Transported three previously cryogenically frozen people to Earth. Part of the tachyon blockade during the Klingon Civil War."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-42296"
+          },
+          "Name": {
+            "S": "USS Hood"
+          },
+          "ShipClass": {
+            "S": "Excelsior"
+          },
+          "Description": {
+            "S": "William Riker's assignment before his transfer to the USS Enterprise-D. Part of the tachyon blockade during the Klingon Civil War. Participates in the Battle for Deep Space 9 and First Battle of Chin'toka. Part of Battle Group Omega sent to intercept Reman warship Scimitar."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-42451"
+          },
+          "Name": {
+            "S": "USS Righteous"
+          },
+          "ShipClass": {
+            "S": "Excelsior"
+          },
+          "Description": {
+            "S": "Believed to have been vaporized by the Borg in 2366, in reality the ship was brought ten years into the future by Q in order to save it from destruction during the Battle of Wolf 359. Under the command of Captain Nikolai Andropov in Star Trek: Borg."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-42768"
+          },
+          "Name": {
+            "S": "USS Lakota"
+          },
+          "ShipClass": {
+            "S": "Excelsior"
+          },
+          "Description": {
+            "S": "Commanded by Captain Erika Benteen. Attempts to stop USS Defiant from reaching Earth under the orders of the rogue Admiral James Leyton."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-42857"
+          },
+          "Name": {
+            "S": "USS Grissom"
+          },
+          "ShipClass": {
+            "S": "Excelsior"
+          },
+          "Description": {
+            "S": "Assists the Enterprise-D during a contamination problem on Beta Agni II. Name pays tribute to astronaut Gus Grissom, commander of Apollo 1. Destroyed at the Battle of Ricktor Prime."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-42995"
+          },
+          "Name": {
+            "S": "USS Al-Batani"
+          },
+          "ShipClass": {
+            "S": "Excelsior"
+          },
+          "Description": {
+            "S": "Although it never appeared on screen, the Al-Batani is mentioned in dialogue as the first ship aboard which Kathryn Janeway served, which at the time was captained by Tom Paris' father Owen Paris. Never defined on screen, the class and registry number come from the non-canon Star Trek Encyclopedia."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-43305"
+          },
+          "Name": {
+            "S": "USS Valley Forge"
+          },
+          "ShipClass": {
+            "S": "Excelsior"
+          },
+          "Description": {
+            "S": "Damaged by an orbital defense platform at the Battle of Chin'toka."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-43730"
+          },
+          "Name": {
+            "S": "USS Wyoming"
+          },
+          "ShipClass": {
+            "S": "Mediterranean"
+          },
+          "Description": {
+            "S": "Ship on which Tuvok served."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-43837"
+          },
+          "Name": {
+            "S": "USS Lalo"
+          },
+          "ShipClass": {
+            "S": "Mediterranean"
+          },
+          "Description": {
+            "S": "Reports a \"hiccup\" in time that resulted from Dr. Paul Manheim's experiments. Destroyed by the Borg."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-44278"
+          },
+          "Name": {
+            "S": "USS Archer"
+          },
+          "ShipClass": {
+            "S": "Archer"
+          },
+          "Description": {
+            "S": "Presumable namesake ship for the class. Presumably named for Jonathan Archer."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-45109"
+          },
+          "Name": {
+            "S": "USS Maryland"
+          },
+          "ShipClass": {
+            "S": "Renaissance"
+          },
+          "Description": {
+            "S": "Missing in the Gamma Quadrant."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-45167"
+          },
+          "Name": {
+            "S": "USS Aries"
+          },
+          "ShipClass": {
+            "S": "Renaissance"
+          },
+          "Description": {
+            "S": "Ship offered to William Riker to command. Part of the tachyon blockade during the Klingon Civil War."
+          }
+        }
+      }
+    }
+  ]
+}

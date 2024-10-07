@@ -1,0 +1,436 @@
+{
+  "dbb-starShips-DynamoDBTable-ITDJLPHAMGGD": [
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-1924"
+          },
+          "Name": {
+            "S": "USS Sitak"
+          },
+          "ShipClass": {
+            "S": "Miranda"
+          },
+          "Description": {
+            "S": "Destroyed at the Battle for Deep Space 9."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-19386"
+          },
+          "Name": {
+            "S": "USS Tripoli"
+          },
+          "ShipClass": {
+            "S": "Hokuleâa"
+          },
+          "Description": {
+            "S": "Discovered by Data. Later assigned to Qualor II."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-1939"
+          },
+          "Name": {
+            "S": "USS Soyuz"
+          },
+          "ShipClass": {
+            "S": "Soyuz"
+          },
+          "Description": {
+            "S": "Presumable namesake ship for the class."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-1941"
+          },
+          "Name": {
+            "S": "USS Bozeman"
+          },
+          "ShipClass": {
+            "S": "Soyuz"
+          },
+          "Description": {
+            "S": "Spends several decades caught in a temporal causality loop; Commanded by Captain Morgan Bateson (Kelsey Grammer). Named for Bozeman, Montana, launching place of humanity's first warp ship and hometown of Brannon Braga, the writer of the episode the ship appeared in. The registration number was a reference to the 1979 film 1941 due to modelmaker Greg Jein working on both projects."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-1941-A"
+          },
+          "Name": {
+            "S": "USS Bozeman"
+          },
+          "ShipClass": {
+            "S": "Sovereign"
+          },
+          "Description": {
+            "S": "Successor to the first Bozeman. Participated in the Battle of Sector 001."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-1948"
+          },
+          "Name": {
+            "S": "USS Trial"
+          },
+          "ShipClass": {
+            "S": "Miranda"
+          },
+          "Description": {
+            "S": "Part of a Starfleet task force at Deep Space Nine during the Klingon invasion of the Cardassian Union. Participates in the Battle for Deep Space 9."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-1974"
+          },
+          "Name": {
+            "S": "USS Constellation"
+          },
+          "ShipClass": {
+            "S": "Constellation"
+          },
+          "Description": {
+            "S": "Participated in the Dominion War."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-1986"
+          },
+          "Name": {
+            "S": "USS Explorer"
+          },
+          "ShipClass": {
+            "S": "Constitution refit"
+          },
+          "Description": {
+            "S": "Seen investigating the results of the Tabula Rasa Incident in the opening sequence of the video game Star Trek: New Worlds. Commanded by Captain Gibson."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-2000"
+          },
+          "Name": {
+            "S": "USS Excelsior"
+          },
+          "ShipClass": {
+            "S": "Excelsior"
+          },
+          "Description": {
+            "S": "Pathfinder and transwarp drive testbed. In The Search for Spock, the ship was dubbed \"the great experiment\" and was days away from its first test run. It was unexpectedly called into service to stop Admiral Kirk and his crew from stealing the soon to be decommissioned Enterprise. Attempting to use the transwarp drive to bring the ship back to spacedock, the Excelsior was sabotaged by Montgomery Scott and was left inoperable. Following the embarrassing failure, the Excelsior underwent repairs in spacedock before its recommission into active duty. Fails in attempt to rescue Captain James T. Kirk and Dr. Leonard McCoy from Qo'noS. Helps defeat General Chang over Khitomer. Ship aboard which Tuvok serves as science officer. Commanded by Captain Styles in Star Trek III: The Search for Spock and Captain Hikaru Sulu in Star Trek VI: The Undiscovered Country."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-20000"
+          },
+          "Name": {
+            "S": "USS Valiant"
+          },
+          "ShipClass": {
+            "S": "Oberth"
+          },
+          "Description": {
+            "S": "Helps recover Enterprise-D crew at Veridian III."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-2005"
+          },
+          "Name": {
+            "S": "USS Sydney"
+          },
+          "ShipClass": {
+            "S": "Sydney"
+          },
+          "Description": {
+            "S": "Presumable namesake ship for the class."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-2008"
+          },
+          "Name": {
+            "S": "USS Paris (Simulation ship)"
+          },
+          "ShipClass": {
+            "S": "Excelsior"
+          },
+          "Description": {
+            "S": "Simulated Excelsior class vessel used by Academy trainees in Star Trek: Starfleet Academy."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-2010"
+          },
+          "Name": {
+            "S": "USS Jenolan"
+          },
+          "ShipClass": {
+            "S": "Sydney"
+          },
+          "Description": {
+            "S": "Crashed on the surface of a Dyson sphere while transporting Captain Montgomery Scott to a retirement colony. Montgomery Scott stored himself in the transporters of this starship. Destroyed."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-20105"
+          },
+          "Name": {
+            "S": "USS Nash"
+          },
+          "ShipClass": {
+            "S": "Sydney"
+          },
+          "Description": {
+            "S": "Transports personnel to and from Deep Space Nine."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-2012-C"
+          },
+          "Name": {
+            "S": "USS London"
+          },
+          "ShipClass": {
+            "S": "Galaxy"
+          },
+          "Description": {
+            "S": "Participates in the Battle for Deep Space 9."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-2019"
+          },
+          "Name": {
+            "S": "USS Dallas"
+          },
+          "ShipClass": {
+            "S": "Excelsior"
+          },
+          "Description": {
+            "S": "Dedication plaque states \"Last starship of her class\"."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-2020"
+          },
+          "Name": {
+            "S": "USS Samuel B. Roberts"
+          },
+          "ShipClass": {
+            "S": "Miranda"
+          },
+          "Description": {
+            "S": "Part of the Starfleet task force during the final battle of the Dominion war. It was brought out of mothball status just two months before the final battle after having been extensively updated. It was badly damaged in the battle but survived. It was later decommissioned again and then scrapped after being deemed too far damaged to repair and mothball again."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-2021"
+          },
+          "Name": {
+            "S": "USS Farragut"
+          },
+          "ShipClass": {
+            "S": "Excelsior"
+          },
+          "Description": {
+            "S": "Transported several genetically enhanced humans to Deep Space Nine."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-21166"
+          },
+          "Name": {
+            "S": "USS Brittain"
+          },
+          "ShipClass": {
+            "S": "Miranda"
+          },
+          "Description": {
+            "S": "Crew went insane due to loss of REM sleep."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-21382"
+          },
+          "Name": {
+            "S": "USS Tiananmen"
+          },
+          "ShipClass": {
+            "S": "Miranda"
+          },
+          "Description": {
+            "S": "Part of the tachyon blockade during the Klingon Civil War. Went MIA while patrolling the Cardassian border during the Dominion War. Participates at the First Battle of Chin'toka. Named for the Tiananmen Square protests of 1989."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-2544"
+          },
+          "Name": {
+            "S": "USS Repulse"
+          },
+          "ShipClass": {
+            "S": "Excelsior"
+          },
+          "Description": {
+            "S": "Katherine Pulaski's assignment before the USS Enterprise-D. Served in the Dominion War."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-2573"
+          },
+          "Name": {
+            "S": "USS Roosevelt"
+          },
+          "ShipClass": {
+            "S": "Excelsior"
+          },
+          "Description": {
+            "S": "Destroyed at the Battle of Wolf 359."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-2593"
+          },
+          "Name": {
+            "S": "USS Hathaway"
+          },
+          "ShipClass": {
+            "S": "Constellation"
+          },
+          "Description": {
+            "S": "Decommissioned, participated in exercises against the USS Enterprise-D. Its destruction was faked in a ruse to foil Ferengi attackers. Named for the wife of William Shakespeare."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-26136"
+          },
+          "Name": {
+            "S": "USS Zhukov"
+          },
+          "ShipClass": {
+            "S": "Ambassador"
+          },
+          "Description": {
+            "S": "Made cultural observation of Alpha Laputa IV. Previous assignment of Lt. Barclay before his transfer to the Enterprise-D Supporting ship in Star Trek: Bridge Commander, commanded by an Andorian Captain Verata, the ship escorts the USS Sovereign to Starbase 12 and participates in several battles."
+          }
+        }
+      }
+    }
+  ]
+}

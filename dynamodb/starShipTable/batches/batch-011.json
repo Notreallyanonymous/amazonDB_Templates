@@ -1,0 +1,436 @@
+{
+  "dbb-starShips-DynamoDBTable-ITDJLPHAMGGD": [
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-80110"
+          },
+          "Name": {
+            "S": "USS Rhea"
+          },
+          "ShipClass": {
+            "S": "Luna"
+          },
+          "Description": {
+            "S": "Captained by Captain Bazel, a Saurian."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-80111"
+          },
+          "Name": {
+            "S": "USS Charon"
+          },
+          "ShipClass": {
+            "S": "Luna"
+          },
+          "Description": {
+            "S": "Captained by Bellatora Fortis and destroyed during the novel Sword of Damocles of the Star Trek: Titan novel series."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-80115"
+          },
+          "Name": {
+            "S": "USS Krakatoa"
+          },
+          "ShipClass": {
+            "S": "Luna"
+          },
+          "Description": {
+            "S": "Captained by Bartholomew Stavisky, a long time friend of Benjamin Sisko. Last command was USS Illinois NCC-12512, States class."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-81623"
+          },
+          "Name": {
+            "S": "USS da Vinci"
+          },
+          "ShipClass": {
+            "S": "Saber"
+          },
+          "Description": {
+            "S": "Lead ship in Starfleet Corps of Engineers novel series. Named for Leonardo da Vinci."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-81890"
+          },
+          "Name": {
+            "S": "USS Curie"
+          },
+          "ShipClass": {
+            "S": "Merian"
+          },
+          "Description": {
+            "S": "Commanded by Captain Xin Chan. Part of \"Project Full Circle\" in the Star Trek: Voyager novel Full Circle."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-81894"
+          },
+          "Name": {
+            "S": "USS Planck"
+          },
+          "ShipClass": {
+            "S": "Merian"
+          },
+          "Description": {
+            "S": "Commanded by Captain Hosc T'Mar. Part of \"Project Full Circle\" in the Star Trek: Voyager novel Full Circle."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-81897"
+          },
+          "Name": {
+            "S": "USS Hawking"
+          },
+          "ShipClass": {
+            "S": "Merian"
+          },
+          "Description": {
+            "S": "Commanded by Captain Bal Itak. Part of \"Project Full Circle\" in the Star Trek: Voyager novel Full Circle."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-82601"
+          },
+          "Name": {
+            "S": "USS Vesta"
+          },
+          "ShipClass": {
+            "S": "Vesta"
+          },
+          "Description": {
+            "S": "Commanded by Captain Regina Farkas. Lead ship of the Vesta class. Mothballed soon after launch due to technical issues. Relaunched and becomes part of \"Project Full Circle\" in 2381 in the Star Trek: Voyager novel Protectors."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-82602"
+          },
+          "Name": {
+            "S": "USS Aventine"
+          },
+          "ShipClass": {
+            "S": "Vesta"
+          },
+          "Description": {
+            "S": "First command of Captain Ezri Dax in Star Trek: Destiny. Has prototype slipstream warp drive."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-82610"
+          },
+          "Name": {
+            "S": "USS Quirinal"
+          },
+          "ShipClass": {
+            "S": "Vesta"
+          },
+          "Description": {
+            "S": "Commanded by Captain Regina Farkas. Part of \"Project Full Circle\" in the Star Trek: Voyager novel Full Circle. Destroyed by the Omega Continuum in 2381 in The Eternal Tide."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-82614"
+          },
+          "Name": {
+            "S": "USS Esquiline"
+          },
+          "ShipClass": {
+            "S": "Vesta"
+          },
+          "Description": {
+            "S": "Commanded by Captain Parimon Dasht. Part of \"Project Full Circle\" in the Star Trek: Voyager novel Full Circle. Destroyed by the Omega Continuum in 2381 in The Eternal Tide."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-82617"
+          },
+          "Name": {
+            "S": "USS Capitoline"
+          },
+          "ShipClass": {
+            "S": "Vesta"
+          },
+          "Description": {
+            "S": "Attached to the Department of Temporal Investigations. Mentioned in the Department of Temporal Investigations novels."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-82745"
+          },
+          "Name": {
+            "S": "USS Atlas"
+          },
+          "ShipClass": {
+            "S": "Sovereign"
+          },
+          "Description": {
+            "S": "Commanded by Morgan Bateson in the 2380s."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-91277"
+          },
+          "Name": {
+            "S": "USS James T Kirk"
+          },
+          "ShipClass": {
+            "S": "Akira"
+          },
+          "Description": {
+            "S": "Commanded by Captain Elias Vaughn. Named in honor of the famous Starfleet captain. Destroyed in the defense of Federation worlds against the mass Borg Invasion of 2381, resulting in the death of 31 crew members and Captain Vaughn being left brain dead."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-97005"
+          },
+          "Name": {
+            "S": "USS Yorktown"
+          },
+          "ShipClass": {
+            "S": "Odyssey"
+          },
+          "Description": {
+            "S": "The Yorktown fought at the Battle of Sol in the Iconian war, and was nearly destroyed. It was later found by Starfleet and refitted into the Yorktown subclass of the Odyssey class starships."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-97014"
+          },
+          "Name": {
+            "S": "USS Hamilton"
+          },
+          "ShipClass": {
+            "S": "Odyssey"
+          },
+          "Description": {
+            "S": "The Hamilton fought in many skirmishes along the Klingon border during the Third Klingon And Federation War. She later fought in the second battle of DS9 alongside ships like the USS Enterprise. The Hamilton was a major component during the Iconian War. She was later destroyed in a Hurâq attack at DS9."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-97165"
+          },
+          "Name": {
+            "S": "USS Kent"
+          },
+          "ShipClass": {
+            "S": "Odyssey"
+          },
+          "Description": {
+            "S": "The Kent was a ship of exploration in the early 25th Century. She later went missing during the Iconian War. Two years after she went missing, a fragment of her hull was found adrift in the Ba'aja Sector. The rest of the ship was later found in the Boreth Sector in 2429."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-9754"
+          },
+          "Name": {
+            "S": "USS Victory"
+          },
+          "ShipClass": {
+            "S": "Constellation"
+          },
+          "Description": {
+            "S": "Ship on which Geordi La Forge once served. Participated in the Dominion War. Named after the Napoleonic Wars British Royal Navy flagship, HMS Victory flagship of Horatio Nelson, 1st Viscount Nelson."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-98003"
+          },
+          "Name": {
+            "S": "USS Victory"
+          },
+          "ShipClass": {
+            "S": "Odyssey"
+          },
+          "Description": {
+            "S": "The Victory was the Last Odyssey class starship to be built. She was launched in late 2419 and would be used as an exploration vessel. She was named after the battleship HMS Victory."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCV-474438-G"
+          },
+          "Name": {
+            "S": "USS Pastak"
+          },
+          "ShipClass": {
+            "S": "Wells"
+          },
+          "Description": {
+            "S": "Timeship that saves the character from a Tholian attack in Star Trek Online."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCV-474439-G"
+          },
+          "Name": {
+            "S": "USS Relativity"
+          },
+          "ShipClass": {
+            "S": "Wells"
+          },
+          "Description": {
+            "S": "Timeship Relativity, from the 29th century, ship designed to transport people through time, set on a mission to prevent the destruction of the USS Voyager."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NGV-474438-A"
+          },
+          "Name": {
+            "S": "USS Wells"
+          },
+          "ShipClass": {
+            "S": "Wells"
+          },
+          "Description": {
+            "S": "Presumable namesake ship for the class."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NX-01"
+          },
+          "Name": {
+            "S": "Enterprise"
+          },
+          "ShipClass": {
+            "S": "NX"
+          },
+          "Description": {
+            "S": "Lead ship. Captained by Jonathan Archer. Primary setting for Star Trek: Enterprise. Launched in 2151. Decommissioned in 2161."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NX-02"
+          },
+          "Name": {
+            "S": "Columbia"
+          },
+          "ShipClass": {
+            "S": "NX"
+          },
+          "Description": {
+            "S": "Commanded by Captain Erika Hernandez. Launched in 2154 and participated in the KlingonâAugment crisis. After an uncertain term of service, it was eventually lost but was later discovered intact on a desert planet in the Gamma Quadrant. Fate of crew unknown."
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,382 @@
+{
+  "dbb-starShips-DynamoDBTable-ITDJLPHAMGGD": [
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NX-03"
+          },
+          "Name": {
+            "S": "Challenger"
+          },
+          "ShipClass": {
+            "S": "NX"
+          },
+          "Description": {
+            "S": "Mentioned in the Star Trek: Enterprise novel The Romulan War: Beneath the Raptor's Wing."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NX-04"
+          },
+          "Name": {
+            "S": "Discovery"
+          },
+          "ShipClass": {
+            "S": "NX"
+          },
+          "Description": {
+            "S": "Mentioned in the Star Trek: Enterprise novel The Romulan War: Beneath the Raptor's Wing."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NX-05"
+          },
+          "Name": {
+            "S": "Atlantis"
+          },
+          "ShipClass": {
+            "S": "NX"
+          },
+          "Description": {
+            "S": "Mentioned in the Star Trek: Enterprise novel The Romulan War: Beneath the Raptor's Wing."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NX-06"
+          },
+          "Name": {
+            "S": "Endeavour"
+          },
+          "ShipClass": {
+            "S": "NX"
+          },
+          "Description": {
+            "S": "Mentioned in the Star Trek: Enterprise novels The Romulan War: Beneath the Raptor's Wing and The Romulan War: To Brave the Storm. Later entered Federation Starfleet service and rebuilt into Columbia class."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NX-07"
+          },
+          "Name": {
+            "S": "Intrepid"
+          },
+          "ShipClass": {
+            "S": "NX"
+          },
+          "Description": {
+            "S": "Commanded by Jason Lambert. Mentioned in the Star Trek: The Next Generation novel Indistinguishable from Magic."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NX-09"
+          },
+          "Name": {
+            "S": "ISS Avenger"
+          },
+          "ShipClass": {
+            "S": "NX"
+          },
+          "Description": {
+            "S": "In the Mirror Universe, an Imperial Starfleet warship."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NX-31472-B"
+          },
+          "Name": {
+            "S": "USS Ranger"
+          },
+          "ShipClass": {
+            "S": "Nebula"
+          },
+          "Description": {
+            "S": "Lost during the Borg Invasion of 2381, the vessel was defending the planet Khitomer."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NX-45298"
+          },
+          "Name": {
+            "S": "USS Huang Zhong"
+          },
+          "ShipClass": {
+            "S": "Archer"
+          },
+          "Description": {
+            "S": "Mentioned in the tie-in novel Star Trek: Seekers #4: All That's Left. Crashed on a planet in a spatial rift. Crew rescued by the Enterprise resulting in first contact with the Dolysians."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NX-59650"
+          },
+          "Name": {
+            "S": "USS Prometheus"
+          },
+          "ShipClass": {
+            "S": "Prometheus"
+          },
+          "Description": {
+            "S": "First class starship; still under development; captured by Romulans and recovered by Starfleet personnel after the EMH from USS Voyager and the EMH Mark II incapacitated the Romulan crew."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NX-60147"
+          },
+          "Name": {
+            "S": "USS Nebula"
+          },
+          "ShipClass": {
+            "S": "Nebula"
+          },
+          "Description": {
+            "S": "Presumable namesake ship for the class."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NX-62341"
+          },
+          "Name": {
+            "S": "USS Norway"
+          },
+          "ShipClass": {
+            "S": "Norway"
+          },
+          "Description": {
+            "S": "Presumable namesake ship for the class."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NX-72003"
+          },
+          "Name": {
+            "S": "USS Danube"
+          },
+          "ShipClass": {
+            "S": "Danube"
+          },
+          "Description": {
+            "S": "First ship of the class. Mentioned in Star Trek: Deep Space Nine Technical Manual."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NX-73515"
+          },
+          "Name": {
+            "S": "USS Nova"
+          },
+          "ShipClass": {
+            "S": "Nova"
+          },
+          "Description": {
+            "S": "Presumable namesake ship for the class."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NX-73811"
+          },
+          "Name": {
+            "S": "USS Sovereign"
+          },
+          "ShipClass": {
+            "S": "Sovereign"
+          },
+          "Description": {
+            "S": "First ship of the class which acts as a pathfinder ship. Appears in Star Trek Bridge Commander. Also features in the Shatnerverse novel Spectre."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NX-74010"
+          },
+          "Name": {
+            "S": "USS Liberty"
+          },
+          "ShipClass": {
+            "S": "Intrepid"
+          },
+          "Description": {
+            "S": "Part of Battle Group Omega sent to intercept Reman warship Scimitar. Commanded by Captain Carl S. Bouchillon."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NX-74205"
+          },
+          "Name": {
+            "S": "USS Defiant"
+          },
+          "ShipClass": {
+            "S": "Defiant"
+          },
+          "Description": {
+            "S": "Pathfinder. Assigned to space station Deep Space Nine. Participates in the Battle of Sector 001. Destroyed at the Second Battle of Chin'toka."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NX-74751"
+          },
+          "Name": {
+            "S": "USS Yellowstone"
+          },
+          "ShipClass": {
+            "S": "Yellowstone"
+          },
+          "Description": {
+            "S": "Prototype for an advanced runabout designed in large part by Ensign Harry Kim and Lieutenant Laska in an alternate timeline. Destroyed by antimatter containment loss."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NX-76220"
+          },
+          "Name": {
+            "S": "USS Steamrunner"
+          },
+          "ShipClass": {
+            "S": "Steamrunner"
+          },
+          "Description": {
+            "S": "Presumable namesake ship for the class."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NX-80101"
+          },
+          "Name": {
+            "S": "USS Luna"
+          },
+          "ShipClass": {
+            "S": "Luna"
+          },
+          "Description": {
+            "S": "The prototype for the Luna-class. The ship was destroyed by a catastrophic engine failure before the events described in the novel Taking Wing of the Star Trek: Titan novel series took place."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NX-86350"
+          },
+          "Name": {
+            "S": "USS Galen"
+          },
+          "ShipClass": {
+            "S": "Galen"
+          },
+          "Description": {
+            "S": "Prototype, commanded by Commander Clarissa Glenn. Part of the Project Full Circle in the Star Trek: Voyager relaunch novels."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NX-97000"
+          },
+          "Name": {
+            "S": "USS Odyssey"
+          },
+          "ShipClass": {
+            "S": "Odyssey"
+          },
+          "Description": {
+            "S": "First ship of the Odyssey-class. Commissioned at Utopia Planetia. Currently in service."
+          }
+        }
+      }
+    }
+  ]
+}

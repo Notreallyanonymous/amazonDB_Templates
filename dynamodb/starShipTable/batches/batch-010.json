@@ -1,0 +1,436 @@
+{
+  "dbb-starShips-DynamoDBTable-ITDJLPHAMGGD": [
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-73024"
+          },
+          "Name": {
+            "S": "USS Shenandoah"
+          },
+          "ShipClass": {
+            "S": "Danube"
+          },
+          "Description": {
+            "S": "Taken by Dax and Worf to rescue a Cardassian informant from the Dominion. Severely damaged by the Jem'Hadar en route to deliver diplomatic message to Grand Nagus Zek."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-73196"
+          },
+          "Name": {
+            "S": "USS Volga"
+          },
+          "ShipClass": {
+            "S": "Danube"
+          },
+          "Description": {
+            "S": "Participates in botanical survey of Torad IV."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-73624"
+          },
+          "Name": {
+            "S": "USS Gander"
+          },
+          "ShipClass": {
+            "S": "Danube"
+          },
+          "Description": {
+            "S": "Taken by Ezri Dax to search for Worf. Destroyed by the Jem'Hadar."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-73808"
+          },
+          "Name": {
+            "S": "USS Lionheart"
+          },
+          "ShipClass": {
+            "S": "Nova"
+          },
+          "Description": {
+            "S": "Medical vessel temporarily commanded by Christine Vale in the novel Star Trek: The Fall - The Poisoned Chalice."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-74210"
+          },
+          "Name": {
+            "S": "USS Valiant"
+          },
+          "ShipClass": {
+            "S": "Defiant"
+          },
+          "Description": {
+            "S": "Starfleet Academy Red Squad training ship. The vessel gets caught behind enemy lines after the outbreak of the Dominion War, suffered heavy losses among the standard crew and was subsequently commanded by the cadets of Red Squad. Destroyed by the Jem'Hadar after a failed attempt to destroy a new Dominion vessel. Only three people survived the destruction of the ship, (Jake Sisko, Nog, and Collins, a member of Red Squad)."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-74350"
+          },
+          "Name": {
+            "S": "USS Saladin"
+          },
+          "ShipClass": {
+            "S": "Defiant"
+          },
+          "Description": {
+            "S": "Commanded by Captain Shinoda during the Dominion War in the short story \"Safe Harbors\"."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-74413"
+          },
+          "Name": {
+            "S": "USS Twilight"
+          },
+          "ShipClass": {
+            "S": "Nova"
+          },
+          "Description": {
+            "S": "Starfleet Intelligence attached science vessel temporarily commanded by Jaryd Harker, MD in the novel Star Trek: Adamant."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-74562"
+          },
+          "Name": {
+            "S": "USS Pathfinder"
+          },
+          "ShipClass": {
+            "S": "Intrepid"
+          },
+          "Description": {
+            "S": "Captain Christine McDonald's new command in the book Star Trek: Preserver. Destroyed in battle with USS Enterprise (NCC-1701-E) and Ferengi Marauder-class starship Leveraged Buyout around planet Halkan."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-74600"
+          },
+          "Name": {
+            "S": "USS Intrepid"
+          },
+          "ShipClass": {
+            "S": "Intrepid"
+          },
+          "Description": {
+            "S": "Pathfinder vessel. Part of Battle Group Omega sent to intercept Reman warship Scimitar."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-74602"
+          },
+          "Name": {
+            "S": "USS Yukon"
+          },
+          "ShipClass": {
+            "S": "Danube"
+          },
+          "Description": {
+            "S": "Stolen by Founder in failed attempt to destroy the Bajoran sun. Destroyed by a Protomatter Device also killing a Founder."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-74656"
+          },
+          "Name": {
+            "S": "USS Voyager"
+          },
+          "ShipClass": {
+            "S": "Intrepid"
+          },
+          "Description": {
+            "S": "Primary setting of Star Trek: Voyager where it is commanded by Captain Kathryn Janeway. Commanded by Captain Chakotay in the \"Enemy of My Enemy\" book series, then commanded by Captain Afsarah Eden in the novel Unworthy, then by Captain Chakotay as final commander in the novels Full Circle and Children of the Storm."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-74705"
+          },
+          "Name": {
+            "S": "USS Bellerophon"
+          },
+          "ShipClass": {
+            "S": "Intrepid"
+          },
+          "Description": {
+            "S": "Transports Federation personnel to a summit on Romulus. Flagship of Vice Admiral Ross during parts of the Dominion War."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-74710"
+          },
+          "Name": {
+            "S": "USS Sally Ride"
+          },
+          "ShipClass": {
+            "S": "Intrepid"
+          },
+          "Description": {
+            "S": "Designed for deep space exploration and scientific discovery. It is the third ship in the Intrepid-class, having been commissioned at the same time as the USS Voyager. It has a cruising speed of warp 6 and a maximum sustainable speed of warp 9.975. Its armaments include ablative armor and quantum torpedoes. Commanded by Capt. Rafael Martinez. It appears in the Geek & Sundry web show Shield of Tomorrow."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-74791"
+          },
+          "Name": {
+            "S": "USS Destiny"
+          },
+          "ShipClass": {
+            "S": "Undetermined"
+          },
+          "Description": {
+            "S": "Ezri Tigan's prior assignment before transferring to Deep Space Nine."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-75001"
+          },
+          "Name": {
+            "S": "USS Monitor"
+          },
+          "ShipClass": {
+            "S": "Defiant"
+          },
+          "Description": {
+            "S": "Mentioned in both the books The Return and Preserver, lost under command of Captain John Scott Lewinski attempting to set a new warp speed record with recovered Borg transwarp drive."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-75353"
+          },
+          "Name": {
+            "S": "USS Yolja"
+          },
+          "ShipClass": {
+            "S": "Danube"
+          },
+          "Description": {
+            "S": "First runabout to be named after a non-Earth river. Assigned to Deep Space 9. Appeared in Worlds of Star Trek: Deep Space Nine, Volume Three â The Dominion: Olympus Descending."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-75418"
+          },
+          "Name": {
+            "S": "USS Valiant"
+          },
+          "ShipClass": {
+            "S": "Sovereign"
+          },
+          "Description": {
+            "S": "The Defiant class starship, USS Valiant NCC-74210 was destroyed in the year 2374 by the Jem'Hadar after a failed attempt to destroy a new Dominion Battleship class vessel. The new Valiant was put into active service just one year later as a Sovereign class starship."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-75689"
+          },
+          "Name": {
+            "S": "USS Gibraltar"
+          },
+          "ShipClass": {
+            "S": "Sovereign"
+          },
+          "Description": {
+            "S": "Sacrificed itself against the Borg in 2381 in Star Trek: Destiny."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-77024"
+          },
+          "Name": {
+            "S": "USS Achilles"
+          },
+          "ShipClass": {
+            "S": "Mulciber"
+          },
+          "Description": {
+            "S": "Commanded by Captain Tillum Drafar. Part of \"Project Full Circle\" in the Star Trek: Voyager novel Full Circle."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-78012"
+          },
+          "Name": {
+            "S": "USS Cortez"
+          },
+          "ShipClass": {
+            "S": "Galaxy"
+          },
+          "Description": {
+            "S": "Referred to by Chief O'Brien and Captain Sisko during the mission to retake DS9. Lost patrolling Cardassian border"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-78056"
+          },
+          "Name": {
+            "S": "USS Lynx"
+          },
+          "ShipClass": {
+            "S": "Miranda"
+          },
+          "Description": {
+            "S": "The Lynx was a troop transport during the Third Klingon And Federation War. She was later destroyed in a skirmish with a couple of Klingon Birds Of Prey, with all hands lost."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-79221"
+          },
+          "Name": {
+            "S": "USS Saber"
+          },
+          "ShipClass": {
+            "S": "Saber"
+          },
+          "Description": {
+            "S": "Presumable namesake ship for the class."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-80102"
+          },
+          "Name": {
+            "S": "USS Titan"
+          },
+          "ShipClass": {
+            "S": "Luna"
+          },
+          "Description": {
+            "S": "The USS Titan is the first command of Captain William Thomas Riker, former first officer of the USS Enterprise-D and USS Enterprise-E.A Luna-class starship, designed primarily for scientific discovery. Described as 450 meters long, the Titan was built with state-of-the-art science facilities as opposed to being a more tactically pronounced starship. With a complement of about 350 persons, the USS Titan comprises the most racially diverse crew in Starfleet, with less than 15% of the population being human, as well as a number of non-humanoid beings.A full set of schematics of the USS Titan is available in the novel Sword of Damocles of the Star Trek: Titan novel series."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-80109"
+          },
+          "Name": {
+            "S": "USS Callisto"
+          },
+          "ShipClass": {
+            "S": "Luna"
+          },
+          "Description": {
+            "S": "Captained by Admiral Trenton Cole, a long time friend of Picard's."
+          }
+        }
+      }
+    }
+  ]
+}

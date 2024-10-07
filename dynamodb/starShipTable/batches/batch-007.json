@@ -1,0 +1,436 @@
+{
+  "dbb-starShips-DynamoDBTable-ITDJLPHAMGGD": [
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-60597"
+          },
+          "Name": {
+            "S": "USS Farragut"
+          },
+          "ShipClass": {
+            "S": "Nebula"
+          },
+          "Description": {
+            "S": "Helps recover Enterprise-D crew at Veridian III. Destroyed in the Lembatta Cluster by Klingons."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-60805"
+          },
+          "Name": {
+            "S": "USS Nightingale"
+          },
+          "ShipClass": {
+            "S": "Nebula"
+          },
+          "Description": {
+            "S": "Minor starship in Star Trek: Bridge Commander. Used as a search-and-rescue vessel. Fate uncertain."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-617"
+          },
+          "Name": {
+            "S": "USS LaGrange"
+          },
+          "ShipClass": {
+            "S": "Oberth"
+          },
+          "Description": {
+            "S": "Transports negotiators in the game Star Trek: Starfleet Academy. This ship is destroyed by the simulator."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-61826"
+          },
+          "Name": {
+            "S": "USS Monitor"
+          },
+          "ShipClass": {
+            "S": "Nebula"
+          },
+          "Description": {
+            "S": "Sent to the Romulan Neutral Zone in anticipation of a possible Romulan attack."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-61827"
+          },
+          "Name": {
+            "S": "USS Merrimack"
+          },
+          "ShipClass": {
+            "S": "Nebula"
+          },
+          "Description": {
+            "S": "Transported Sarek from Legara IV to Vulcan."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-61832"
+          },
+          "Name": {
+            "S": "USS Lexington"
+          },
+          "ShipClass": {
+            "S": "Nebula"
+          },
+          "Description": {
+            "S": "Participates in the Battle of Sector 001."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-61947"
+          },
+          "Name": {
+            "S": "USS Yeager"
+          },
+          "ShipClass": {
+            "S": "Saber"
+          },
+          "Description": {
+            "S": "Participates in the Battle of Sector 001."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-61952"
+          },
+          "Name": {
+            "S": "USS Proxima"
+          },
+          "ShipClass": {
+            "S": "Nebula"
+          },
+          "Description": {
+            "S": "Missing in the Gamma Quadrant."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-62000"
+          },
+          "Name": {
+            "S": "USS Rigel"
+          },
+          "ShipClass": {
+            "S": "Rigel"
+          },
+          "Description": {
+            "S": "Presumable namesake ship for the class."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-62006"
+          },
+          "Name": {
+            "S": "USS Hera"
+          },
+          "ShipClass": {
+            "S": "Nebula"
+          },
+          "Description": {
+            "S": "Disappeared while under the command of Captain Silva La Forge with a mostly Vulcan crew of 300."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-6203"
+          },
+          "Name": {
+            "S": "USS LaSalle"
+          },
+          "ShipClass": {
+            "S": "Deneva"
+          },
+          "Description": {
+            "S": "Reports unusual radiation anomalies in the Gamma Arigulon system."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-62043"
+          },
+          "Name": {
+            "S": "USS Melbourne"
+          },
+          "ShipClass": {
+            "S": "Nebula"
+          },
+          "Description": {
+            "S": "Destroyed at the Battle of Wolf 359. Remains of ship visible in aftermath of the battle in Star Trek: The Next Generation episode \"The Best of Both Worlds, Part 2\". Registry and name same as Excelsior class ship seen in Star Trek: Deep Space Nine pilot episode \"Emissary\"."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-62043"
+          },
+          "Name": {
+            "S": "USS Melbourne"
+          },
+          "ShipClass": {
+            "S": "Excelsior"
+          },
+          "Description": {
+            "S": "Offered to William Riker to command. Starfleet flagship at the Battle of Wolf 359, where it is destroyed."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-62048"
+          },
+          "Name": {
+            "S": "USS Bellerephon"
+          },
+          "ShipClass": {
+            "S": "Nebula"
+          },
+          "Description": {
+            "S": "Destroyed at the Battle of Wolf 359."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-62095"
+          },
+          "Name": {
+            "S": "USS Tolstoy"
+          },
+          "ShipClass": {
+            "S": "Rigel"
+          },
+          "Description": {
+            "S": "Destroyed in the Battle of Wolf 359."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-62100"
+          },
+          "Name": {
+            "S": "USS T'Kumbra"
+          },
+          "ShipClass": {
+            "S": "Nebula"
+          },
+          "Description": {
+            "S": "All-Vulcan crew challenges the Deep Space Nine crew to a game of baseball. Participated in the Dominion War."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-62158"
+          },
+          "Name": {
+            "S": "USS Akagi"
+          },
+          "ShipClass": {
+            "S": "Rigel"
+          },
+          "Description": {
+            "S": "Part of the tachyon blockade during the Klingon Civil War. Served in the Dominion War. Named for HIJMS Akagi."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-6237"
+          },
+          "Name": {
+            "S": "USS Arcos"
+          },
+          "ShipClass": {
+            "S": "Deneva"
+          },
+          "Description": {
+            "S": "Destroyed by a warp core breach near Turkana IV in 2367. Crew evacuates to the planet's surface and is rescued by the Enterprise-D."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-63102"
+          },
+          "Name": {
+            "S": "USS Renegade"
+          },
+          "ShipClass": {
+            "S": "New Orleans"
+          },
+          "Description": {
+            "S": "Rendezvoused with the Enterprise-D over Dytallix B, where Captain Tryla Scott met with Jean-Luc Picard to discuss an alien conspiracy to take over Starfleet."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-63293"
+          },
+          "Name": {
+            "S": "USS Rabin"
+          },
+          "ShipClass": {
+            "S": "Akira"
+          },
+          "Description": {
+            "S": "Participates in the Battle of Sector 001."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-63546"
+          },
+          "Name": {
+            "S": "USS Summit"
+          },
+          "ShipClass": {
+            "S": "Akira"
+          },
+          "Description": {
+            "S": "Attempts to rescue the Enterprise-E on Gemworld. Destroyed by a dimensional rift immediately after dropping out of warp. Lost with all hands."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-63549"
+          },
+          "Name": {
+            "S": "USS Thunderchild"
+          },
+          "ShipClass": {
+            "S": "Akira"
+          },
+          "Description": {
+            "S": "Participates in the Battle of Sector 001 in 2373."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-638"
+          },
+          "Name": {
+            "S": "USS Grissom"
+          },
+          "ShipClass": {
+            "S": "Oberth"
+          },
+          "Description": {
+            "S": "Transports David Marcus and Lieutenant Saavik to the Genesis planet. Destroyed by Klingons. Named for NASA astronaut Virgil I. \"Gus\" Grissom who died during preparations and testing for the Apollo One mission. Commanded by Captain J. T. Esteban."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-63892"
+          },
+          "Name": {
+            "S": "USS Dakota"
+          },
+          "ShipClass": {
+            "S": "Akira"
+          },
+          "Description": {
+            "S": "Participates in the Battle of Sector 001 in 2373. Lost patrolling the border of the Cardassian Demilitarized Zone."
+          }
+        }
+      }
+    }
+  ]
+}

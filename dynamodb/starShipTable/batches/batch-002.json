@@ -1,0 +1,436 @@
+{
+  "dbb-starShips-DynamoDBTable-ITDJLPHAMGGD": [
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-1701-E"
+          },
+          "Name": {
+            "S": "USS Enterprise"
+          },
+          "ShipClass": {
+            "S": "Sovereign"
+          },
+          "Description": {
+            "S": "Primary setting for Star Trek: First Contact, Star Trek: Insurrection, Star Trek Nemesis and also made an appearance on Bridge Commander. Captained by Jean-Luc Picard."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-1701-F"
+          },
+          "Name": {
+            "S": "USS Enterprise"
+          },
+          "ShipClass": {
+            "S": "Odyssey"
+          },
+          "Description": {
+            "S": "Commanded by Captain Va'kel Shon. Participated in the second battle for Deep Space Nine as well as the final battle against the Iconians in Star Trek: Online."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-1702"
+          },
+          "Name": {
+            "S": "USS Pegasus"
+          },
+          "ShipClass": {
+            "S": "Constitution"
+          },
+          "Description": {
+            "S": "Patrolled the Klingon Neutral Zone."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-1703"
+          },
+          "Name": {
+            "S": "USS Hood"
+          },
+          "ShipClass": {
+            "S": "Constitution"
+          },
+          "Description": {
+            "S": "Participates in Richard Daystrom's M5 computer test. Destroyed by sabotage in Star Trek Continues episode 7, \"Embracing the Winds\". In episodes 10â11 \"To Boldly Go\", we find out this was done by espers. The 1973 Franz Joseph Blueprints list this ship as NCC-1707."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-1707"
+          },
+          "Name": {
+            "S": "USS Ranger (Simulation ship)"
+          },
+          "ShipClass": {
+            "S": "Constitution refit"
+          },
+          "Description": {
+            "S": "Another simulated Enterprise class ship used by Starfleet Academy trainees in Star Trek: Starfleet Academy."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-1709"
+          },
+          "Name": {
+            "S": "USS Lexington"
+          },
+          "ShipClass": {
+            "S": "Constitution"
+          },
+          "Description": {
+            "S": "Participates in Richard Daystrom's M5 computer test. Commanded by Commodore Robert Wesley. The 1973 Franz Joseph Blueprints list this ship as NCC-1703."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-1710"
+          },
+          "Name": {
+            "S": "USS Kongo"
+          },
+          "ShipClass": {
+            "S": "Constitution"
+          },
+          "Description": {
+            "S": "In Star Trek Continues episodes 10â11 \"To Boldly Go\", the Kongo is hijacked by espers and taken to the galactic barrier. They then head for Earth with murderous intent. With the help of Romulan commander Charvanek and her Hawk's Talon, the Enterprise foils them, but not before they trick the Exeter and Potemkin into destroying each other. In their last act of defiance, the espers destroy the Kongo."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-1710-A"
+          },
+          "Name": {
+            "S": "USS Kongo"
+          },
+          "ShipClass": {
+            "S": "Sovereign"
+          },
+          "Description": {
+            "S": "The war with Starfleet took a heavy toll,The decision to bring out some of its old ship names from mothball, the USS Kongo was Commissioned on stardate:50938.10 in the year 2373 under the command of Captain Donavon until the near future. The Alphabet letter (A) was put on to the NCC-1710 hull number to honor the Kongo from the year 2293. The USS Kongo NCC-1710-A was the 2nd ship to bear the name of the Kongo. The Plaque reads as follows (\"Never give up, Never Surrender\")"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-1717"
+          },
+          "Name": {
+            "S": "USS Yorktown"
+          },
+          "ShipClass": {
+            "S": "Constitution"
+          },
+          "Description": {
+            "S": "Disabled by alien probe. The 1973 Franz Joseph Blueprints list this ship as NCC-1704."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-173"
+          },
+          "Name": {
+            "S": "USS Essex"
+          },
+          "ShipClass": {
+            "S": "Daedalus"
+          },
+          "Description": {
+            "S": "Damaged and crashed on Mab-Bu VI."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-17331"
+          },
+          "Name": {
+            "S": "USS Sentinel"
+          },
+          "ShipClass": {
+            "S": "Sovereign"
+          },
+          "Description": {
+            "S": "Appears in Star Trek: Invasion. Also mentioned in the great transaction for graviton stabilizers."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-176"
+          },
+          "Name": {
+            "S": "USS Horizon"
+          },
+          "ShipClass": {
+            "S": "Daedalus"
+          },
+          "Description": {
+            "S": "A model of this ship was on display in the school aboard Deep Space 9 in early 2369. (DS9: \"The Nagus\")."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-1764"
+          },
+          "Name": {
+            "S": "USS Defiant"
+          },
+          "ShipClass": {
+            "S": "Constitution"
+          },
+          "Description": {
+            "S": "The ship is lost in an interdimensional rift in \"The Tholian Web\". Later, it is revealed she was taken by Mirror Universe Tholians, captured by the crew of the ISS Enterprise (NX-01), and then used in the service of the Terran Empire in \"In a Mirror, Darkly\". In Star Trek Continues (episode 8, \"Still Treads the Shadow\"), Defiant is duplicated during its passage through the interdimensional rift into interphasic space with only a duplicate Kirk aboard. Over the next two hundred years, it gains a sentient AI who attempts to bring it back into the prime universe. The attempt has potentially disastrous consequences and is foiled by both Kirks, the duplicate returning to interphasic space. A Defiant is mentioned, but not seen (except for a wireframe graphic) in Star Trek Discovery, Season One.Oddly, though the Defiant appears in TOS, the Star Fleet Technical Manual lists no Defiant in any of the starship classes mentioned though the book was published seven years after the fact. However, there are several classes not listed in the publication. The Defiant is listed as a Bonhomme Richard subclass of the Constitution class. In the Star Fleet Technical Manual, it lists the registry number of \"NCC-1764\" as belonging to the Galina. Since the Defiant appears in an episode, and the Galina does not, then the Defiant is the sole owner of the NCC-1764. But, one possibility is, the number was attached to the Galina after the disappearance of the Defiant."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-177358"
+          },
+          "Name": {
+            "S": "USS Vengeance"
+          },
+          "ShipClass": {
+            "S": "Dreadnought"
+          },
+          "Description": {
+            "S": "Developed by Starfleet Admiral Alexander Marcus of Section 31 to combat the Klingon Empire."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-178"
+          },
+          "Name": {
+            "S": "USS Pilgrim"
+          },
+          "ShipClass": {
+            "S": "Daedalus"
+          },
+          "Description": {
+            "S": "Active in the year 2159 in the vicinity of one of Starfleet's first starbases. Appears in the Star Trek videogame \"Legacy\"."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-1789"
+          },
+          "Name": {
+            "S": "USS Mesquite"
+          },
+          "ShipClass": {
+            "S": "Freedom"
+          },
+          "Description": {
+            "S": "Training ship, assigned to Starbase 1. Mentioned in Star Trek: Tactical Assault."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-1804"
+          },
+          "Name": {
+            "S": "USS Paris"
+          },
+          "ShipClass": {
+            "S": "Constitution refit"
+          },
+          "Description": {
+            "S": "Destroyed in The Battle of Caleb IV."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-1837"
+          },
+          "Name": {
+            "S": "USS Lantree"
+          },
+          "ShipClass": {
+            "S": "Miranda"
+          },
+          "Description": {
+            "S": "Crew died after exposure to genetically engineered humans. Destroyed by the USS Enterprise-D."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-1852"
+          },
+          "Name": {
+            "S": "USS Tempest (simulation ship)"
+          },
+          "ShipClass": {
+            "S": "Miranda"
+          },
+          "Description": {
+            "S": "Simulated Miranda class vessel used by Academy trainees in Star Trek: Starfleet Academy."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-1864"
+          },
+          "Name": {
+            "S": "USS Reliant"
+          },
+          "ShipClass": {
+            "S": "Miranda"
+          },
+          "Description": {
+            "S": "Ship on which Pavel Chekov serves as first officer. Assigned to Project Genesis and later hijacked by Khan Noonien Singh. Heavily damaged by USS Enterprise (NCC-1701), then destroyed by Genesis Device detonation."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-1887"
+          },
+          "Name": {
+            "S": "USS Saratoga"
+          },
+          "ShipClass": {
+            "S": "Miranda"
+          },
+          "Description": {
+            "S": "Disabled by the Whale Probe."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-189"
+          },
+          "Name": {
+            "S": "USS Archon"
+          },
+          "ShipClass": {
+            "S": "Daedalus"
+          },
+          "Description": {
+            "S": "Destroyed by an alien computer in 2167 near Beta III."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-1894"
+          },
+          "Name": {
+            "S": "USS Sagittarius"
+          },
+          "ShipClass": {
+            "S": "Archer"
+          },
+          "Description": {
+            "S": "Commanded by Clark Terrell prior to taking command of the USS Reliant. Assigned to explore the Taurus Reach. Presumably named for the constellation."
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Registry": {
+            "S": "NCC-19002"
+          },
+          "Name": {
+            "S": "USS Yosemite"
+          },
+          "ShipClass": {
+            "S": "Oberth"
+          },
+          "Description": {
+            "S": "Studied the plasma arc between binary stars."
+          }
+        }
+      }
+    }
+  ]
+}
