@@ -1,0 +1,16 @@
+  
+  {
+    "dbb-starShips-DynamoDBTable-ITDJLPHAMGGD":{
+    "Keys":[
+       {
+           "Registry" : {"S": "NCC-11574"}, 
+           "ShipClass" : {"S": "Apollo"}
+       }, 
+       {
+           "Registry" : {"S": "NCC-65601"}, 
+           "ShipClass" : {"S": "Surak"}
+       }
+           ]
+ }
+
+}

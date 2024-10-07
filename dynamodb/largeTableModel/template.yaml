@@ -12,10 +12,10 @@ Resources:
           - AttributeName: position
             KeyType: RANGE
         AttributeDefinitions: 
-          - AttributeName: largeTableModel
+          - AttributeName: positions
             AttributeType: S
           - AttributeName: encrypted_salaries
-            AttributeType: S
+            AttributeType: N
         ProvisionedThroughput: 
           ReadCapacityUnits: 5
           WriteCapacityUnits: 5

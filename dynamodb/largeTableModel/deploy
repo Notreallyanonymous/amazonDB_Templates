@@ -2,7 +2,7 @@ set -e  # stop the execution of the script if it fails
 
 echo "== Deploy Data Stream"
 
-STACK_NAME="dbb-encrypted_totals"
+STACK_NAME="dbb_encrypted_totals"
 root_path=$(pwd)  # replaces realpath
 template_path="${root_path}/template.yaml"  
 
