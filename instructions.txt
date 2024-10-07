@@ -1,0 +1,14 @@
+This is an amazon dynamodb templates that allows you to quickly create tables in amazon db
+There is a little bit of Ruby code that converts a csv file into batches of 25 which is the limit when pushing items into dynamodb
+Add a chmod u+x to the deploy file and execute the batch write files by using the following command 
+aws dynamodb batch-write-item --request-items file://batches/batch-009.json replace the 009 with the bacthes you want to upload if one at a time 
+or you can place them from all in your cmd line terminal in a chain succession seperated by a space each to upload all at the same time 
+
+###
+└─[0] ruby csv-to-json.rb  
+###                                                                      
+└─[0] aws dynamodb batch-write-item --request-items file://batches/batch-005.json                 
+###
+Get items
+###
+aws dynamod get-item --"dbb-starShips-DynamoDBTable-ITDJLPHAMGGD --key file://key.json
