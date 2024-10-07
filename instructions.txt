@@ -4,11 +4,33 @@ Add a chmod u+x to the deploy file and execute the batch write files by using th
 aws dynamodb batch-write-item --request-items file://batches/batch-009.json replace the 009 with the bacthes you want to upload if one at a time 
 or you can place them from all in your cmd line terminal in a chain succession seperated by a space each to upload all at the same time 
 
-###
+### Convert the csv to json using a ruby script
 └─[0] ruby csv-to-json.rb  
-###                                                                      
+
+### Write items to the db table                                                                   
 └─[0] aws dynamodb batch-write-item --request-items file://batches/batch-005.json                 
-###
-Get items
-###
-aws dynamod get-item --"dbb-starShips-DynamoDBTable-ITDJLPHAMGGD --key file://key.json
+
+### Get item
+aws dynamodb get-item --table-name dbb-starShips-DynamoDBTable-ITDJLPHAMGGD --key file://key.json
+
+### Get batch items
+└─[130] aws dynamodb batch-get-item --request-items file://getBatch.json --output json
+
+### Delete item
+aws dynamod delete-item --"dbb-starShips-DynamoDBTable-ITDJLPHAMGGD --key file://key.json
+
+### Query
+aws dynamodb query --table-name dbb-starShips-DynamoDBTable-ITDJLPHAMGGD \
+--projection-expression "Registry" \
+--key-condition-expression "ShipClass = :C" \
+--expression-attribute-values '{":C": {"S":"Galaxy"}}' \
+--output text
+
+
+### Query reverse order
+aws dynamodb query --table-name dbb-starShips-DynamoDBTable-ITDJLPHAMGGD \
+--projection-expression "Registry" \
+--key-condition-expression "ShipClass = :C" \
+--expression-attribute-values '{":C": {"S":"Galaxy"}}' \
+--no-scan-index-forward \
+--output text

@@ -1,0 +1,25 @@
+The free tier for DynamoDB provides 25GB of storage, 
+along with 25 provisioned Write and 25 provisioned Read Capacity Units 
+(WCU, RCU) which is enough to handle 200M requests per month.
+
+RCU and WCU measures the number of reads and writes (respectively) per second. 
+However, for obvious reasons, doing a 10 byte read is not billed the same as a 
+read of the entire database - one RCU is a read of up to 4KB, and larger 
+reads are counted as multiple reads. WCU uses a smaller quantum (1KB). 
+Another thing you should know is that an eventual consistency read counts as
+half a RCU, and a transactional read counts as two RCUs.
+
+
+if you provision (i.e., use "Provisioned" billing mode) 25 RCUs, but then
+try to make 26 requests per second. Well, first of all, 25 is not a hard 
+per-second limit but an average limit. Amazon will let you use 50 RCUs in one
+second if you used 0 RCUs in the what its period is isn't public, 
+but it is known that in the past Amazon got complaints that people were 
+paying for 25 RCUs and weren't getting 25,000 reads over 1000 seconds, 
+and they acted on these complaints and now you should be able to get 25 
+reads per second on a long-term average.
+
+
+Also please check pricing and cost in the region you will deploy
+regions have different costs and prices at the time of writing
+ 
